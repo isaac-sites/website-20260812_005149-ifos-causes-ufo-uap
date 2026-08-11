@@ -1,0 +1,5801 @@
+{
+  "generated_at_utc": "2026-08-11T23:45:33.175385Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 241,
+    "pages_review_recommended": 2,
+    "warning_reason_counts": {
+      "single_reader_role": 2
+    }
+  },
+  "pages": [
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_ground_lights_false_08bd45",
+      "title": "Can City Lights Create a False Horizon?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Geometric Patterns Creating False Horizons",
+        "UAP Motion Perception Mechanisms",
+        "Aviation Safety and UAP Analysis Criteria"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_pr008_heat_signature_401999",
+      "title": "Was PR 008 Really Showing a Heat Source?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Four Interpretations of PR 008 Heat Signature",
+        "Data Requirements for UAP Resolution",
+        "PR 008 Case Specifications"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.25,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b",
+      "title": "ifos causes of UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "UAP Identification Resolution Workflow",
+        "Common IFO Source Categories",
+        "Factors Influencing UAP Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a",
+      "title": "What Modern UAP Cases Are Being Resolved As",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO UAP Resolution Shift FY 2024 vs FY 2025",
+        "Conventional Causes of UAP Reports",
+        "Factors Hindering UAP Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_aaro_2024_2025_shift_ab2202",
+      "title": "How AARO's UAP explanations changed in one year",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_genealogy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "AARO FY 2024 vs FY 2025 Resolutions",
+        "Satellite Flaring Identification Process",
+        "AARO FY 2025 Resolution Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_aaro_balloon_identif_136876",
+      "title": "How AARO tells a balloon from a UAP",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "AARO Balloon Identification Workflow",
+        "Balloon vs. Drone Hypothesis",
+        "AARO European Balloon Case Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_infrared_bird_uap_391c8a",
+      "title": "Why birds can look bizarre on infrared cameras",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Bird Identification Workflow",
+        "Infrared Signal Interpretation Risks",
+        "Diagnostic Evidence for Birds"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_mount_etna_uap_resol_1c6cca",
+      "title": "Did a UAP really pass through Mount Etna",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "process_steps",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "Mount Etna Case Data Comparison",
+        "AARO Investigation Methodology",
+        "Discarded UAP Hypotheses"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_satellite_flare_reso_136099",
+      "title": "Why satellites suddenly explain so many UAP reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AARO Satellite Flare Resolution Process",
+        "Specular vs. Diffuse Satellite Reflection",
+        "Characteristics of Satellite Flaring Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12",
+      "title": "When Advertising Aircraft Look Nothing Like Planes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Investigating Aerial Advertising Claims",
+        "Washington DC 1977 Case Analysis",
+        "Perceptual Factors in Night Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_exeter_ad_plane_reco_54398f",
+      "title": "Why the Advertising Plane Theory Failed at Exeter",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "process_pipeline",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "Exeter UFO vs. Sky Lite Aircraft",
+        "Fowler's Investigation of Sky Lite",
+        "Sky Lite Aircraft Specifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_hidden_airframe_nigh_8c6c6f",
+      "title": "Why the Airplane Can Vanish Behind Its Lights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Visual Degradation of Advertising Aircraft",
+        "Detection vs. Recognition Thresholds",
+        "1977 Cessna Advertising Case Study"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_illuminated_airships_92d2e4",
+      "title": "Could an Old UFO Report Be a Lighted Airship?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Evolution of Goodyear Airship Displays",
+        "UFO Sighting vs. Airship Analysis",
+        "Criteria for Airship Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_washington_1977_ad_c_ee21e0",
+      "title": "The Jellyfish UFO That Was an Advertising Plane",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1977 Washington UFO Sighting",
+        "Witness Perception vs. Physical Reality",
+        "Factors Defining the Washington IFO Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_wing_light_sign_ufo_234732",
+      "title": "How Wing Light Signs Can Look Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Wing Mounted Light Signs",
+        "Visibility vs. Readability in UFO Reports",
+        "Characteristics of Advertising Aircraft Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11",
+      "title": "How Windblown Objects Can Look Intelligently Controlled",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Aerodynamic Flight of Passive Debris",
+        "UAP Interpretation vs. Airborne Clutter",
+        "Visual Clues for Identifying Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_fluttering_airborne_2d0694",
+      "title": "Why Windblown Debris Can Look Intelligently Controlled",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "masonry"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "other"
+      ],
+      "titles": [
+        "Aerodynamic Mechanics of Fluttering Debris",
+        "Debris vs. Powered Craft Interpretations",
+        "Atmospheric Factors Influencing Debris"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_official_kite_debris_d88f14",
+      "title": "Why Official UFO Files Keep Mentioning Kites",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of UAP Identification Frameworks",
+        "AARO Airborne Clutter Components",
+        "UAP Identification Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_tethered_kite_ufo_mo_673939",
+      "title": "Why Tethered Kites Can Resemble Hovering Craft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kite Dynamics and Force Equilibrium",
+        "Kite vs. Powered Craft Observations",
+        "Components of a Tethered System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_vancouver_led_kite_c_b97899",
+      "title": "The LED Kite Mistaken for a Vancouver UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Vancouver Kite Identification Time line",
+        "Vancouver Sightings Interpretations",
+        "Technical Specifications of the Kite"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_wind_shear_debris_mo_27b1e6",
+      "title": "Can Wind Shear Make Debris Look Like a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "earth_core"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Passive Debris Flight Mechanics",
+        "Wind Shear vs. Powered Flight",
+        "Atmospheric Wind Shear Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46",
+      "title": "Why Approaching Aircraft Can Seem to Hover",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Visual Perception of Approaching Aircraft",
+        "Physical Hovering vs. Geometric Illusion",
+        "AARO Western United States Case Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_constant_bearing_air_3f30e2",
+      "title": "Why a Fast Aircraft Can Look Motionless",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Visual Perception of Constant Bearing",
+        "Crossing Traffic vs. Collision Course",
+        "Aviation Safety Geometry Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_delayed_aircraft_loo_b718eb",
+      "title": "Why an Approaching Aircraft May Not Look Closer",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "list_vertical",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Blossom Effect Progression",
+        "ATSB Mangalore Collision Data",
+        "Factors Weakening Visual Cues"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_flight_data_hovering_74c19b",
+      "title": "Can Flight Data Explain a Hovering Light?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Flight Tracking Geometry Reconstruction",
+        "Evidence Strength in Flight Matching",
+        "ADS B Data Sources and Limitations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_landing_lights_hide_06c752",
+      "title": "When Landing Lights Look Like a Hovering UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aircraft Approach Visual Transition",
+        "Night Vision Perception Factors",
+        "AARO and CIA Investigation Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_long_final_approach_969f75",
+      "title": "How a Plane Can Seem to Hover for Minutes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aircraft Approach Geometry Key Stages",
+        "Perceptual Illusion vs. Physical Motion",
+        "Aviation Factors Influencing Sighting Clarity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949",
+      "title": "When the Atmosphere Itself Looks Like a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Lenticular Cloud Formation Process",
+        "Atmospheric Optics vs. Solid Craft",
+        "Meteorological Verification Tools"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_cloud_iridescence_br_ba2ad0",
+      "title": "How Cloud Iridescence Creates Object Like Colored Lights",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Optical Mechanism of Cloud Iridescence",
+        "UAP Reports vs. Cloud Iridescence",
+        "Diagnostic Clues for Cloud Iridescence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_lenticular_hovering_202909",
+      "title": "Why Lenticular Clouds Can Look Like Hovering UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Formation of Mountain Wave Clouds",
+        "Lenticular Clouds vs. UFO Reports",
+        "Meteorological Indicators for Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_light_pillars_ufo_li_6c3507",
+      "title": "When Ice Crystals Create a Vertical UFO Like Light",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Light Pillar Formation",
+        "Sun Pillars vs. Artificial Light Pillars",
+        "UAP Misidentification Diagnostic Clues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_nacreous_twilight_gl_0a5b5f",
+      "title": "Why Nacreous Clouds Keep Glowing After Sunset",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Twilight Geometry of Nacreous Clouds",
+        "Nacreous Clouds vs. Artificial Sources",
+        "Nacreous Cloud Diagnostic Clues"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_noctilucent_twilight_38e533",
+      "title": "Can Noctilucent Clouds Look Like Lights in the Sky?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Noctilucent Cloud Illumination Key Stages",
+        "Noctilucent vs. Ordinary Clouds",
+        "Noctilucent Cloud Morphology Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2",
+      "title": "When the Night Sky Itself Starts Moving",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Validating Aurora Hypotheses via Kp Index",
+        "Aurora vs. Discrete Craft Characteristics",
+        "Rare Auroral Phenomena and Structures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_auroral_curtains_ufo_284386",
+      "title": "When Auroral Curtains Look Like Moving UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Auroral Curtain Evolution Process",
+        "Aurora vs. Craft Identification",
+        "Aurora Diagnostic Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_may_2024_low_latitud_83289e",
+      "title": "Why the May 2024 Aurora Looked So Unusual",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "rank_podium"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "May 2024 G5 Storm Progression",
+        "Identifying Low Latitude Luminous Reports",
+        "May 2024 Auroral Reach Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_red_low_latitude_aur_122959",
+      "title": "Why Red Auroras Can Look Nothing Like Aurora",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Red Aurora Sightings: A Historical Time line",
+        "Red Aurora: Misidentification vs. Geophysical Explanation",
+        "Red Aurora Forms: From Glow to Structures"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_stable_red_arcs_ufo_f4d712",
+      "title": "Could a Smooth Red Sky Band Be a SAR Arc?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of SAR Arc Formation",
+        "SAR Arc vs. Ordinary Aurora",
+        "Identifying SAR Arc Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_steve_purple_ribbon_b549f9",
+      "title": "Why STEVE Can Be Mistaken for a Strange UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "STEVE Scientific Identification Process",
+        "STEVE vs. Conventional Aurora",
+        "UFO Misidentification and STEVE"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc",
+      "title": "Why a Stationary Light Can Seem to Move",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FAA Pilot Autokinesis Mitigation Steps",
+        "Autokinesis vs. Physical Motion",
+        "UAP Evidence Hierarchy for Motion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_autokinesis_false_ma_f69e6d",
+      "title": "Can Autokinesis Mimic a UFO Manoeuvre?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "UAP Motion Evidence Hierarchy",
+        "Autokinesis vs. Physical Motion",
+        "Factors Strengthening UAP Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_fixed_lights_apparen_2b33b3",
+      "title": "Why Can a Fixed Light Seem to Drift?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Development of Autokinetic Perception",
+        "Autokinesis vs. Physical Motion",
+        "Aviation Safety and Autokinesis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_pilot_autokinesis_de_a34cf9",
+      "title": "How Pilots Stop a Stationary Light Fooling Them",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "The Autokinesis Hazard Key Stages",
+        "Autokinesis vs. Genuine Displacement",
+        "FAA and Military Countermeasures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_slow_motion_autokine_8da688",
+      "title": "When Real Motion Becomes Too Slow to Trust",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Johns Hopkins Autokinesis Methodology",
+        "Motion Perception Accuracy Comparison",
+        "Factors Influencing Motion Reliability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_verify_ufo_light_mot_d84c9a",
+      "title": "How Do You Verify That a UFO Light Moved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "UAP Motion Investigation Workflow",
+        "Apparent vs. Physical Motion",
+        "UAP Evidence Strength Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010",
+      "title": "Why Balloons Can Look Like Impossible Craft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Balloon Identification Workflow",
+        "Balloons vs. Powered Craft Illusions",
+        "Resolved Balloon Case Varieties"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_aguadilla_motion_par_e9faf0",
+      "title": "Why Did the Aguadilla Objects Look So Fast?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "timeline_snake",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aguadilla UAP Speed Interpretations",
+        "AARO Geometry Reconstruction Process",
+        "Aguadilla Case Technical Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_al_taqaddum_balloon_b84528",
+      "title": "How a Balloon Cluster Became a Shapeshifting UAP",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Al Taqaddum Balloon Cluster Analysis",
+        "Al Taqaddum Interpretation Comparison",
+        "Balloon Cluster Morphology Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_balloon_distance_spe_8da377",
+      "title": "Can a Balloon Look Impossibly Fast?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Validating Balloon Speed Claims",
+        "Angular Size vs Physical Reality",
+        "AARO and NASA Case Resolutions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_balloon_wind_shear_de70cb",
+      "title": "Can Wind Make a Balloon Seem Piloted?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Balloon Navigation via Wind Shear",
+        "UAP Motion Analysis Criteria",
+        "NASA Super Pressure Balloon Systems"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_balloons_infrared_sh_42291d",
+      "title": "Why Balloons Look Stranger in Infrared",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "cards_grid",
+        "process_pipeline"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Factors Shaping Infrared Balloon Signatures",
+        "Eglin UAP Case Interpretation Models",
+        "Mechanism of Apparent Balloon Paneling"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f",
+      "title": "How Birds Become Orbs on Infrared Video",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Infrared Small Target Imaging Pipeline",
+        "AARO Bird vs. UAP Analysis Criteria",
+        "Bird Flight Behavior Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_aaro_bird_case_pr016_5414f4",
+      "title": "The Military UAP Case Identified as Birds",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AARO PR 016 Identification Workflow",
+        "Bird vs. UAP Evidence Criteria",
+        "Avian Flight Research Indicators"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_bird_orb_resolution_8d7244",
+      "title": "Why Can a Bird Look Like an Orb?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Infrared Bird Image Degradation Process",
+        "Detection vs. Identification Thresholds",
+        "Factors Influencing Infrared Resolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_compression_erases_w_bb5e23",
+      "title": "Can Video Compression Make Wings Disappear?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bird Morphology Loss in Compression",
+        "Bird vs. Artifact Interpretations",
+        "Factors Influencing Target Morphology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_infrared_wingbeat_fl_d66914",
+      "title": "When Invisible Wings Still Leave a Signal",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Conversion of Spatial Detail to Flicker",
+        "Spatial vs Temporal Information Trade offs",
+        "Biological Wing Beat Frequency Benchmarks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_puerto_rico_bird_tes_16c5cc",
+      "title": "When the Bird Explanation Fails the Sensor Test",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AARO Aguadilla Case Resolution Steps",
+        "Marine Bird vs. Sky Lantern Hypotheses",
+        "Aguadilla Sensor Data Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926",
+      "title": "Why a Bright Star Can Look Like a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Atmospheric Scintillation Mechanics",
+        "Visual Illusions vs. Physical Motion",
+        "Project Blue Book Data Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_cloud_induced_star_m_a2e02b",
+      "title": "Can Moving Clouds Make a Star Look Mobile?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Induced Motion Illusions",
+        "Cloud Effects vs. Autokinesis",
+        "Cloud Induced Optical Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_sirius_color_flashes_3a6011",
+      "title": "Why Does Sirius Flash Like a Hovering Aircraft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Atmospheric Scintillation of Sirius",
+        "Sirius vs. Aerial Aircraft Lights",
+        "Sirius Identification Clues"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_star_autokinesis_130abe",
+      "title": "Why Can a Stationary Star Suddenly Seem to Move?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Autokinesis Perception Loop",
+        "Autokinesis vs. Physical Displacement",
+        "Aviation Safety and Autokinesis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_star_ufo_sky_check_d94840",
+      "title": "Was That UFO Actually a Star? How to Check",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Stellarium Sky Reconstruction Workflow",
+        "Condon Report Positional Testing",
+        "Evidential Ladder for Star Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_stars_following_cars_3dee79",
+      "title": "Why Does a Bright Star Seem to Follow Your Car?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Motion Parallax Illusion",
+        "Star vs. Nearby Object Dynamics",
+        "Verifying Pacing Aerial Objects"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49",
+      "title": "When the Camera Moves More Than the UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Reconstructing the Go Fast Geometry",
+        "Visual Illusion vs Physical Reality",
+        "Required Metadata for UAP Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_banking_tracked_ufo_6c1d47",
+      "title": "How a Banking Jet Changes Apparent UFO Motion",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "rank_podium",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "AARO Go Fast Reconstruction Process",
+        "F/A 18 Banking Geometry Metrics",
+        "UAP Analysis Geometry Errors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_gofast_speed_uncerta_c5c62f",
+      "title": "Why Go Fast's Reconstructed Speed Is a Range",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AARO Go Fast Reconstruction Process",
+        "NASA vs AARO Speed Analysis",
+        "Factors Limiting Exact Speed"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_gofast_telemetry_cam_a2d829",
+      "title": "What Go Fast's On Screen Data Reveals About Motion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AARO Go Fast Geometry Reconstruction",
+        "Visual Impression vs. Telemetry Data",
+        "Go Fast Telemetry Parameters"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_target_lock_camera_r_e420cf",
+      "title": "When Target Lock Makes the Background Look Fast",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "ATFLIR Gimbal Tracking Logic",
+        "Visible vs Hidden Camera Motion",
+        "Clues of Active Target Lock"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_tracked_object_altit_456924",
+      "title": "Can Tracking Data Reveal a UFO's True Altitude?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Go Fast Geometry Reconstruction",
+        "Go Fast Interpretation Comparison",
+        "UAP Reconstruction Data Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd",
+      "title": "When Drones Look More Mysterious Than Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Drone Perception vs. Physical Reality",
+        "AARO UAP Case Resolution Workflow",
+        "Diagnostic Drone Flight Behaviors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_drone_lights_hide_ai_b1c11a",
+      "title": "When a Drone Becomes Just a Light",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Drone Perception Transformation Key Stages",
+        "Drone vs. Light Visibility Limits",
+        "Factors Inhibiting Drone Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_drone_yaw_vanishing_1b024f",
+      "title": "Why Drone Lights Can Vanish Without Disappearing",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Drone Yaw and Light Vanishing Key Stages",
+        "Drone vs. UFO Optical Interpretations",
+        "Commercial Drone Lighting Layouts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_hover_then_sudden_de_19942f",
+      "title": "Why a Hovering Light Can Suddenly Race Away",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Drone Motion Perception Key Stages",
+        "Drone vs. Anomalous Motion Interpretations",
+        "Evidence Quality for UAP Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_multiple_drone_forma_b7bfcd",
+      "title": "When Several Drones Look Like One UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Drone Formation Visual Perception Process",
+        "UAP vs. Multi Drone Formation Analysis",
+        "Common Drone Generated Aerial Shapes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_new_jersey_drone_ide_b95dbd",
+      "title": "Were the New Jersey Mystery Lights Really Drones?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "2024 New Jersey Drone Investigation Time line",
+        "Drone Identification vs. Visual Observation",
+        "New Jersey Sighting Classification Spectrum"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b",
+      "title": "When the Horizon Itself Creates a UFO Illusion",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of False Horizon Perception",
+        "FAA Identified False Horizon Hazards",
+        "UAP Motion vs. False Horizon Effects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_banking_apparent_tar_e53fe4",
+      "title": "How Your Own Bank Can Make a Target Turn",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "False Horizon Disorientation Key Stages",
+        "UAP Maneuver Interpretation Models",
+        "Reported Maneuvers from Banking"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_carmel_false_horizon_25f3ea",
+      "title": "The Airliner Collision That Shows False Horizons Matter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "The 1965 Carmel Collision Key Stages",
+        "Perceptual vs. Physical Reality",
+        "UAP Observation Risk Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_dark_terrain_horizon_1cd394",
+      "title": "What Happens When the Real Horizon Disappears?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of the Black Hole Effect",
+        "Types of Night Flight Illusions",
+        "Visual Reference Comparison: Day vs. Night"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_sloping_cloud_false_a7e215",
+      "title": "When Sloping Clouds Become the Horizon",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "list_vertical",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "False Horizon Perception Mechanics",
+        "FAA and AOPA Illusion Risk Factors",
+        "UAP Report Geometry Distortion Steps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837",
+      "title": "When Distant Fireworks Lose Their Familiar Shape",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "AARO Fireworks Verification Key Stages",
+        "Distant Fireworks vs. UAP Reports",
+        "AARO Fireworks Case Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_bromsgrove_redditch_c8d851",
+      "title": "How Bromsgrove Fireworks Became Redditch UFO Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Mechanics of Information Loss in UFO Reports",
+        "Audience Perspectives: Bromsgrove vs. Redditch",
+        "Investigative Clues for Aerial Lights"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_conisholme_firework_93ac11",
+      "title": "Conisholme Firework",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Conisholme Turbine Damage Investigation Key Stages",
+        "Conisholme Luminous Phenomena Explanations",
+        "Witness Accounts of Conisholme Lights"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_firework_sighting_ti_0d6a42",
+      "title": "Can a Nearby Firework Display Match the Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Fireworks Sighting Verification Process",
+        "Fireworks Match Strength Levels",
+        "Official Fireworks Data Sources"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_firework_sound_delay_8d4be4",
+      "title": "Why Distant Fireworks Can Seem Completely Silent",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Firework Flash to Bang Delay Time line",
+        "Acoustic Factors Affecting Audibility",
+        "AARO Fireworks Case Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_hidden_firework_laun_3263a0",
+      "title": "How Hidden Fireworks Become Strange Hovering Lights",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Pyrotechnic Shell Launch Key Stages",
+        "Obstructed Fireworks vs. UAP Reports",
+        "Skyline Geometry Investigation Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a",
+      "title": "Why Military Flares Can Resemble UFO Formations",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "LUU 2 Flare Operational Lifecycle",
+        "Phoenix Lights Flare Evidence Analysis",
+        "Visual Identification Traps for Flares"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_flare_false_hovering_4497ed",
+      "title": "Why Falling Flares Can Look Perfectly Still",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "LUU 2 Flare Deployment Key Stages",
+        "Perception vs Physical Reality",
+        "LUU 2 Flare Technical Specifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_flare_wind_terrain_508787",
+      "title": "How Wind and Mountains Transform Flare Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Flare Disappearance",
+        "Flare vs. UAP Perception Factors",
+        "Factors Influencing Flare Visibility"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_multiple_flare_forma_257b4c",
+      "title": "When Separate Flares Look Like One Formation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "LUU 2 Flare Deployment Lifecycle",
+        "Phoenix Lights Visual Interpretations",
+        "Flare Behavior Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_phoenix_late_flare_d_c5e6cd",
+      "title": "Why the Later Phoenix Lights Fit Flares",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the 1997 Phoenix Lights",
+        "Flare Hypothesis vs. UFO Interpretation",
+        "Evidence Categories for Flare Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_phoenix_reports_even_c4ea90",
+      "title": "Why 'Phoenix Lights Were Flares' Is Too Broad",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Phoenix Lights Key Stages March 13 1997",
+        "Evidence for Sierra Estrella Lights",
+        "Distinguishing Phoenix Sightings Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768",
+      "title": "Why a Distant Light Seems to Follow You",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Perception of Motion Parallax",
+        "Motion Parallax vs Autokinesis",
+        "Common Sources of Pursuit Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_aircraft_lights_paci_c44766",
+      "title": "Why Distant Aircraft Lights Can Seem to Pace a Car",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Aircraft Identification Reveal Key Stages",
+        "Perceptual Geometry vs Physical Motion",
+        "FAA Night Aviation Hazards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_foreground_pacing_ef_eb1a02",
+      "title": "Why Passing Scenery Makes a Light Seem to Pace You",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Motion Parallax Depth Perception Process",
+        "Roadside Scenery Depth Layers",
+        "UAP Pacing vs. Motion Parallax"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_long_distance_pursui_419b7a",
+      "title": "How a Following Light Illusion Can Last for Kilometres",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Geometry of Parallax Perception",
+        "UAP Pursuit vs. Parallax Illusion",
+        "UAP Investigation Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_road_turn_light_illu_1e0b50",
+      "title": "Can a Winding Road Make a Light Seem to Turn With You?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Reconstructing a Winding Road Sighting",
+        "Vehicle Relative vs. Earth Fixed Frames",
+        "Diagnostic Evidence for Road Geometry"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_venus_following_car_3753a7",
+      "title": "Why Venus Can Seem to Follow Your Car",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Mechanics of Venus Pursuit Perception",
+        "Venus vs. Nearby Objects in Motion",
+        "Venus Characteristics in UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca",
+      "title": "How Haze Makes Aircraft Lose Their Shape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Atmospheric Extinction of Aircraft Shapes",
+        "Haze vs. Fog Perception Limits",
+        "ADS B and METAR Verification Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_aircraft_turn_positi_133249",
+      "title": "How a Turn Can Reveal an Aircraft's Identity",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aircraft Lighting Geometry Transformation",
+        "Landing vs Position Light Functions",
+        "FAA Position Light Orientation Clues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_haze_aircraft_light_35d25c",
+      "title": "When Haze Turns Landing Lights Into Glowing Blobs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Optical Mechanics of Haze Glow",
+        "Atmospheric vs. Ocular Contrast Loss",
+        "Components of Nighttime Luminous Images"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_haze_aircraft_outlin_ef1147",
+      "title": "Why Aircraft Shapes Vanish Before Their Lights",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Haze Degradation of Aircraft Detail",
+        "Extended Targets vs Point Sources",
+        "Factors Influencing Aircraft Recognition"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_head_on_aircraft_fal_610abe",
+      "title": "Why a Head On Aircraft Can Look Stationary",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Visual Transition of Converging Aircraft",
+        "Converging Motion vs. Physical Hovering",
+        "Factors Creating the Hovering Illusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_long_sight_path_haze_2d37db",
+      "title": "Why Mild Haze Can Hide a Distant Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Optical Path Degradation Process",
+        "Horizontal vs Vertical Visibility Geometry",
+        "Atmospheric Extinction Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52",
+      "title": "Why a Helicopter at Night Can Become a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Helicopter Night Visual Deception Factors",
+        "Helicopter vs. UAP Sighting Evidence",
+        "Helicopter Identification Verification Steps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_autokinesis_helicopt_c6d50c",
+      "title": "Why a Fixed Helicopter Light Can Seem to Dart",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Autokinesis Perception",
+        "Perceived Darts vs. Physical Motion",
+        "Aviation Safety Reference Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_helicopter_hovering_083885",
+      "title": "Can a Helicopter Really Look Motionless at Night?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Helicopter Flight Mechanics and Perception",
+        "Conventional vs. Perceptual Explanations",
+        "Landmark Verification Techniques"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_helicopter_searchlig_c32a9d",
+      "title": "When a Searchlight Hides the Helicopter Behind It",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Optical Mechanics of Searchlight Glare",
+        "Spectrolab SX 16 vs. Aviation Lights",
+        "Diagnostic Clues for Helicopter Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_melbourne_helicopter_2b0202",
+      "title": "The Police Helicopter Mistaken for a UFO in Melbourne",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "2017 Brighton Police Helicopter Incident",
+        "Helicopter Perception vs. Reality",
+        "Aviation Safety Risks of Lasers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_rotating_navigation_348092",
+      "title": "Why Hovering Helicopter Lights Seem to Change Shape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Helicopter Yawing Mechanics at Night",
+        "UAP Sighting Interpretation Models",
+        "FAA Rotorcraft Lighting Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29",
+      "title": "How Infrared Glare Turns Shapes Into Orbs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Infrared Image Formation Chain",
+        "UAP Identification Risks in Infrared",
+        "Indicators of Infrared Glare"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_aaro_aircraft_infrar_034da0",
+      "title": "How Ordinary Aircraft Became Infrared Dots",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Western US Case Resolution",
+        "Interpretation of Infrared Dots",
+        "Factors Influencing UAP Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_atmospheric_wakes_se_d92bfc",
+      "title": "When Infrared Wakes Came From the Camera",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AARO Atmospheric Wakes Resolution Process",
+        "Interpreting Infrared Wake Signatures",
+        "AARO Case Resolution Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_gimbal_glare_explana_a35000",
+      "title": "Does Gimbal Show an Object or Infrared Glare?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Gimbal Infrared Image Layers",
+        "Gimbal Rotation Interpretations",
+        "ATFLIR Sensor Architecture Facts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_infrared_apparent_si_f498bc",
+      "title": "Why Bright Infrared Targets Can Look Too Large",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Infrared Signal Processing Key Stages",
+        "Source Size vs. Signal Extent",
+        "Resolution Regimes for UAP Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_infrared_saturation_097be3",
+      "title": "When Infrared Saturation Erases the Real Shape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Thermal Detector Saturation Key Stages",
+        "Signal Strength vs Recoverable Structure",
+        "Signs of Thermal Saturation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504",
+      "title": "When a Fireball Becomes a UFO Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Fireball Identification Workflow",
+        "Fireball vs. UFO Report Traits",
+        "Fireball Observation Variables"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_fireball_distance_sp_ca4dc7",
+      "title": "Why fireballs can look impossibly close and fast",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA Fireball Reconstruction Process",
+        "Angular Motion vs Linear Speed",
+        "NASA Fireball Reconstruction Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_fireball_timing_clus_51c1c1",
+      "title": "Can matching UFO report times reveal a fireball?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Fireball Trajectory Reconstruction Process",
+        "Meteor vs. Localized UFO Interpretations",
+        "Independent Confirmation Instruments"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_fragmenting_fireball_d0f688",
+      "title": "Why a breaking fireball can look like a changing UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "pyramid_levels"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Meteoroid Fragmentation Life Cycle",
+        "Meteor vs. UAP Interpretations",
+        "Meteor Spectral Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_multi_state_fireball_bb64a0",
+      "title": "How one fireball produced hundreds of distant sightings",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA Fireball Reconstruction Process",
+        "Meteor Characteristics vs. Observer Perception",
+        "Geographic Distribution of 282 Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_winchcombe_fireball_259429",
+      "title": "How the Winchcombe fireball went from mystery to meteorite",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Winchcombe Meteorite Identification Key Stages",
+        "Meteoroid vs. Human Made Space Debris",
+        "Winchcombe Fireball Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709",
+      "title": "Can a Mirage Really Create a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Atmospheric Refraction Light Path",
+        "Superior vs Inferior Mirages",
+        "Atmospheric Distortion Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_aircraft_inversion_m_e2d4eb",
+      "title": "Can a Distant Aircraft Appear Somewhere Else?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Optical Path of Aircraft Mirages",
+        "Mirage vs. Actual Aircraft Geometry",
+        "Requirements for Mirage Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_distorted_low_stars_7ead44",
+      "title": "When a Star Stops Looking Like a Star",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Atmospheric Transformation of Starlight",
+        "Stellar vs. Aerial Interpretations",
+        "Condon Study Case Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_fata_morgana_distort_cd1317",
+      "title": "When One Object Becomes a Stack of Shapes",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Fata Morgana Optical Path Key Stages",
+        "Fata Morgana Visual Signatures",
+        "UAP Reports vs. Fata Morgana"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_floating_ship_superi_d601c4",
+      "title": "Why Can a Ship Appear to Float?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of a Superior Mirage",
+        "Interpretations of the Cornwall Ship",
+        "Characteristics of Ship Mirages"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_mirage_grazing_angle_966878",
+      "title": "Why Dramatic Mirages Cluster Near the Horizon",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Superior Mirage Optical Path Logic",
+        "Mirage Evidence vs. UFO Claims",
+        "Confidence Hierarchy for Mirage Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938",
+      "title": "Why Unresolved Does Not Mean Inexplicable",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "quadrant",
+        "process_pipeline"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Unidentified vs Inexplicable UAP Status",
+        "Critical Data for UAP Analysis",
+        "AARO Case Resolution Workflow"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_aaro_active_archive_7c5de4",
+      "title": "Why AARO Archives So Many UAP Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO UAP Report Resolution Workflow",
+        "AARO FY 2025 Report Disposition Stats",
+        "Evidential States of UAP Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_pr018_long_video_lim_0bbd6e",
+      "title": "Why Ten Minutes of Video Still Wasn't Enough",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "AARO PR 018 Investigation Findings",
+        "Video Duration vs. Data Quality",
+        "Required Data for UAP Attribution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_ufo_multi_sensor_evi_7271d6",
+      "title": "Why One Camera Is Often Not Enough",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Triangulation Logic for Distance Estimation",
+        "Sensor Modality Corroboration Methods",
+        "NASA UAP Study Evidence Weaknesses"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_ufo_time_location_ga_94674c",
+      "title": "Can a UFO Be Solved Without Time and Place?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "NASA UAP Identification Workflow",
+        "AARO Case Resolution Factors",
+        "Conventional Explanations for UAPs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02",
+      "title": "When Separate Lights Look Like One Huge Craft",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO UAP Analytical Methodology",
+        "Perceptual Grouping vs Physical Reality",
+        "Non UAP Sources of Light Formations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_flares_hovering_form_972ef7",
+      "title": "When Military Flares Look Like a Hovering Craft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Parachute Flare Deployment Key Stages",
+        "Phoenix Lights Flare Hypothesis Analysis",
+        "Technical Specs of Illumination Flares"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_satellite_flares_uap_4f830d",
+      "title": "How Satellite Flares Turn Into UAP Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Satellite Flaring Resolution Process",
+        "Satellite Flaring vs. UAP Interpretations",
+        "Factors Influencing Satellite Flare Visibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_star_aircraft_light_5a3f94",
+      "title": "How a Star Became Part of a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Aviation Safety Reporting System Case Key Stages",
+        "Angular Position vs Physical Position",
+        "Verification Methods for Fused Lights"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_starlink_ufo_formati_a0ed28",
+      "title": "Why Starlink Can Look Like a UFO Formation",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Starlink Satellite Orbital Deployment Phases",
+        "UAP vs. Starlink Train Interpretations",
+        "Starlink Identification Diagnostic Clues"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_two_aircraft_one_cra_3c3cea",
+      "title": "When Two Aircraft Look Like One Huge Craft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA ASRS 1999 Perception Key Stages",
+        "Visual Cues in Night Aviation",
+        "Factors Favoring Optical Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618",
+      "title": "How Zoomed Cameras Strip Away Motion Clues",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Data Layers for UAP Reconstruction",
+        "Go Fast Video Interpretations",
+        "Motion Measurement Definitions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_background_projectio_4f137b",
+      "title": "Why the Background Can Exaggerate UFO Travel",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Misplaced Depth Projection",
+        "Go Fast UAP Motion Metrics",
+        "Data Requirements for UAP Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_hidden_aircraft_turn_af779a",
+      "title": "Can a Hidden Aircraft Turn Fake a UFO Maneuver?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Go Fast Reconstruction Methodology",
+        "Target Motion vs. Platform Geometry",
+        "Factors Influencing UAP Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_lost_spatial_context_15116d",
+      "title": "Why Clear UFO Footage Can Still Mislead",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "UAP Imagery Perception vs. Reality",
+        "Visual References for Spatial Orientation",
+        "UAP Data Quality Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_tracking_lock_backgr_d5f03c",
+      "title": "When Tracking Makes the Background Look Faster",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gimballed Sensor Tracking Mechanism",
+        "Visual Interpretation vs. Physical Reality",
+        "Data Points for Velocity Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_ufo_motion_metadata_d3cda8",
+      "title": "What Data Is Needed to Measure UFO Motion?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Converting Pixels to Physical Motion",
+        "Visual Impression vs. Physical Reality",
+        "Critical Metadata for UAP Geometry"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a",
+      "title": "Why UFOs Become Harder to Identify at Night",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_snake",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Daylight vs. Night Visual Cues",
+        "AARO Satellite Flaring Identification",
+        "Night Perception Distortions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_aircraft_lights_merg_c475bf",
+      "title": "When Several Aircraft Lights Look Like One Orb",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Aircraft Light Resolution Key Stages",
+        "Daylight vs Nighttime Conspicuity",
+        "Aviation Lighting Configuration Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_night_light_backgrou_ca6fdc",
+      "title": "When UFO Lights Blend Into the Night Scene",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AARO Western United States Case Resolution",
+        "Visual Ambiguity in Nighttime Scenes",
+        "Scene References for UAP Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_night_vision_aircraf_eea235",
+      "title": "Why Aircraft Bodies Disappear Behind Their Lights",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "process_steps",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Human Vision Trade offs in Darkness",
+        "Aircraft Visibility Decay at Night",
+        "AARO and FAA Night Observation Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_observer_motion_nigh_d429e4",
+      "title": "When Your Own Motion Makes a UFO Move",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Geometry of Motion Parallax Analysis",
+        "Go Fast Case Interpretation Models",
+        "Reference Data for Motion Testing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_satellite_flares_ufo_d24f75",
+      "title": "Why Satellite Flares Can Look Like High UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Satellite Flaring",
+        "Pilot Perception vs. Orbital Reality",
+        "AARO Satellite Flare Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d",
+      "title": "How Parallax Makes Slow Objects Look Fast",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Go Fast Case Resolution Steps",
+        "Apparent vs. Physical Motion Metrics",
+        "Factors Enhancing Motion Parallax"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_aguadilla_parallax_s_d0ba82",
+      "title": "Aguadilla Parallax",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "process_steps",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Aguadilla Video Speed Interpretations",
+        "AARO Geometry Reconstruction Steps",
+        "Factors Influencing Apparent Speed"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_aircraft_motion_para_2399b1",
+      "title": "When the Jet Is Moving Faster Than the UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "AARO Go Fast Motion Parallax Reconstruction",
+        "Image Stability vs Physical Stability",
+        "Factors Enhancing Motion Parallax"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_gofast_speed_illusio_fc9eb2",
+      "title": "Why the Go Fast UFO Looked So Fast",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Go Fast Geometry Reconstruction Steps",
+        "Visual Impression vs. Geometric Reality",
+        "AARO and NASA Go Fast Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_narrow_fov_ufo_speed_c8debe",
+      "title": "How Zoom Makes a Slow UFO Look Faster",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Go Fast Case Resolution Process",
+        "Zoomed vs. Wide Field of View",
+        "Required Metadata for UAP Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_unknown_range_speed_bd71b6",
+      "title": "Why UFO Speed Cannot Be Measured Without Distance",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "UAP Velocity Calculation Chain",
+        "Go Fast Case Geometry Interpretations",
+        "Credible UAP Speed Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a",
+      "title": "Why Bright Planets Still Get Reported as UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanisms of Planetary Misperception",
+        "Venus vs. Jupiter Characteristics",
+        "Verifying Planetary Sightings via JPL Horizons"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_cloud_induced_planet_420bb2",
+      "title": "Can Moving Clouds Make Venus Look Mobile?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Induced Motion Illusion",
+        "Induced Motion vs Autokinesis Effects",
+        "AARO Identification of Planetary Misperceptions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_condon_case37_planet_75b02d",
+      "title": "How One Dramatic UFO Chase Matched Bright Planets",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Condon Case 37 Investigation Key Stages",
+        "UFO vs. Planetary Hypothesis Analysis",
+        "Evidence for Venus Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_planet_autokinesis_u_fb4779",
+      "title": "Why a Stationary Planet Can Seem to Move",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "FAA Autokinesis Perception Key Stages",
+        "Autokinesis vs. Physical Motion",
+        "UFO Investigation Verification Clues"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_venus_following_car_039c6e",
+      "title": "Why Venus Can Seem to Follow Your Car",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Visual Perception of Motion Parallax",
+        "UAP Reports vs. Planetary Geometry",
+        "Factors Influencing UAP Misidentification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_venus_position_ufo_c_b0c361",
+      "title": "Was Venus Actually Where the UFO Appeared?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Venus Identification Investigation Workflow",
+        "Venus vs. UAP Positional Evidence",
+        "Venus Orbital and Observational Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582",
+      "title": "What Project Blue Book Actually Identified",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "grid_stats",
+        "cards_grid"
+      ],
+      "roles": [
+        "taxonomy",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Identification Categories",
+        "Special Report No. 14 Object Statistics",
+        "Blue Book vs. Modern UAP Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_aircraft_u_488c4a",
+      "title": "How Ordinary Aircraft Looked Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Blue Book Aircraft Identification Process",
+        "Optical Mechanisms of Distant Aircraft",
+        "Aviation Sources in Blue Book Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_astronomic_e5993e",
+      "title": "Why Bright Planets Could Become UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Astronomical Verification",
+        "Venus vs. Artificial UFO Interpretations",
+        "Blue Book Astronomical Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_balloon_uf_05ed8b",
+      "title": "Why Huge Balloons Generated So Many UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "rank_podium"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "data"
+      ],
+      "titles": [
+        "Project Blue Book Balloon Verification",
+        "Skyhook Balloon vs. UFO Perception",
+        "Project Blue Book Balloon Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.667,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_special_re_0496c0",
+      "title": "What Blue Book's Biggest Statistical Study Found",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "grid_stats",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Battelle Institute Data Consolidation Process",
+        "Project Blue Book Classification Percentages",
+        "Special Report 14 Analytical Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_satellites_blue_book_8febd4",
+      "title": "When Satellites Became a New UFO Source",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Space Age Satellite Identification Time line",
+        "Maritime Satellite Report Statistics",
+        "Satellite vs. Traditional UFO Explanations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d",
+      "title": "When Radar Shows a Target That Misleads",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Radar Signal Processing Pipeline",
+        "Radar Return Interpretations for UAP",
+        "AARO and FAA Radar Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_atmospheric_radar_du_ba7feb",
+      "title": "When the Atmosphere Makes Radar Targets Appear",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Atmospheric Ducting",
+        "Ducting vs. Real Airborne Targets",
+        "Types of Anomalous Propagation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_biological_radar_ech_67bae9",
+      "title": "Can Birds and Insects Look Like UFOs on Radar?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Radar Interpretation Hierarchy for UAP",
+        "Biological vs. Technological Radar Echoes",
+        "Dual Polarisation Radar Variables"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_false_radar_tracks_d5a3ec",
+      "title": "How Radar Software Can Build a False Track",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Radar Tracking Cycle Logic",
+        "Track Behavior vs. Physical Motion",
+        "Radar Association Failure Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_radar_range_ambiguit_58b5be",
+      "title": "Why Radar Can Put a Target at the Wrong Range",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Pulsed Radar Range Calculation Process",
+        "Radar PRF Design Trade offs",
+        "UAP Radar Data Verification Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_radar_velocity_foldi_004905",
+      "title": "When Radar Displays the Wrong Target Speed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Doppler Velocity Folding Mechanism",
+        "Radar Mode and Velocity Trade offs",
+        "UAP Radar Investigation Checklist"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb",
+      "title": "Why Space Debris Can Look Like a Formation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Identifying Space Debris Reentry",
+        "Reentry vs. Meteor Characteristics",
+        "Perceptual Traps of Reentry"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_falcon9_reentry_sign_fca289",
+      "title": "What the 2021 Falcon 9 Reentry Looked Like",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Falcon 9 Reentry Time line",
+        "Meteor vs. Orbital Debris",
+        "Falcon 9 Debris Train Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_reentry_false_struct_16b5a5",
+      "title": "Why Separate Reentry Lights Can Look Solid",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Perceptual Formation of False Craft",
+        "Physical Fragments vs. Solid Craft",
+        "Reentry Breakup Visual Signatures"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_reentry_record_match_6781fc",
+      "title": "Can Reentry Records Explain a UFO Formation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Falcon 9 Reentry Identification Workflow",
+        "Visual Hypothesis vs Record Match",
+        "Data Sources for Reentry Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_skylab_fleet_lights_42c7d9",
+      "title": "How Skylab Turned Into a Fleet of Lights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Skylab Re entry Progression over Australia",
+        "Visual Interpretation of Space Debris",
+        "Skylab Fragmentation Mechanics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_zond4_structured_ufo_32f33b",
+      "title": "Why Zond 4 Looked Like a Structured UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Perceptual Key Stages in Zond 4 Re entry",
+        "Zond 4 Witness Interpretation Analysis",
+        "Zond 4 Report Statistical Breakdown"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd",
+      "title": "How Reflections Put Phantom Lights in the Sky",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Testing for Window Reflections",
+        "Window Reflection vs. Lens Ghost",
+        "AARO and FAA Optical Safety"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_car_window_false_ufo_f94aa8",
+      "title": "Car Window False UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Verifying Vehicle Window Reflections",
+        "UFO vs. Interior Reflection Analysis",
+        "Common Vehicle Reflection Sources"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_cockpit_reflection_u_e8035d",
+      "title": "When Cockpit Reflections Look Like Objects in Flight",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Diagnostic Steps for Reflection Verification",
+        "Reflection vs. External Phenomenon",
+        "Cockpit Reflection Sources and Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_double_glazing_dupli_176ed6",
+      "title": "Why One Light Can Become a UFO Formation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Optical Path of Window Ghosting",
+        "UFO vs. Window Reflection Analysis",
+        "Diagnostic Clues for Window Ghosting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_lens_ghost_structure_3840b2",
+      "title": "Why Lens Ghosts Can Look Like Solid UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Optical Path of Lens Ghosts",
+        "UAP Imagery vs. Lens Ghosts",
+        "Common Lens Ghost Morphologies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_reflection_false_ufo_f2e554",
+      "title": "How Reflections Can Fake Impossible UFO Manoeuvres",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Speed Estimation Protocol",
+        "Reflection vs. Physical Flight",
+        "UAP Optical Analysis Tests"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482",
+      "title": "Why Rocket Launches Can Look Otherworldly",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Falcon 9 Launch Key Stages Mechanics",
+        "Identifying Rocket Plumes vs UFOs",
+        "Geographic Reach of Rocket Plumes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_california_2017_rock_719bc8",
+      "title": "Why California's 2017 Rocket Looked So Strange",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Falcon 9 Launch Key Stages Time line",
+        "Interpretations of the 2017 Plume",
+        "Twilight Phenomenon Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_nrol69_europe_spiral_fe1f44",
+      "title": "How a Florida Launch Produced Europe's Spiral",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "NROL 69 Orbital Mission Time line",
+        "NROL 69 Spiral Interpretations",
+        "Mechanisms of the Blue Spiral"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_stage_separation_ufo_4f5894",
+      "title": "When One Rocket Looks Like Several Objects",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Falcon 9 Launch Key Stages Time line",
+        "UAP Report vs. Rocket Staging",
+        "Rocket Components and Functions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_twilight_rocket_plum_ddbb62",
+      "title": "Why Twilight Rocket Plumes Look So Enormous",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanics of Twilight Plume Illumination",
+        "UAP Reports vs. Rocket Plumes",
+        "Falcon 9 Twilight Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_upper_stage_sky_spir_6d5730",
+      "title": "What Creates Giant Spirals in the Night Sky",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Rocket Spiral Formation",
+        "UFO vs. Rocket Spiral Interpretations",
+        "Factors Enhancing Rocket Spiral Visibility"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f",
+      "title": "Why Satellite Flares Seem to Appear From Nothing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of a Satellite Flare",
+        "Iridium Era vs Modern Flares",
+        "Starlink and UAP Identification Clues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_iridium_predictable_4ee836",
+      "title": "Why Iridium Satellites Could Suddenly Outshine the Stars",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Iridium Flare Optical Key Stages",
+        "Iridium Flare vs. UAP Interpretations",
+        "Iridium Satellite Technical Specifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_satellite_prediction_728b20",
+      "title": "Why Satellite Trackers Can Miss the Brightest Flash",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_vertical",
+        "earth_core"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "other"
+      ],
+      "titles": [
+        "Orbital Geometry vs. Brightness Prediction",
+        "Investigating Satellite Flare Sightings",
+        "Factors Influencing Satellite Flares"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_starlink_horizon_gli_6d622b",
+      "title": "Starlink Horizon Gli",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Starlink Specular Reflection Process",
+        "Starlink Train vs. Specular Flare",
+        "Evidence for Starlink Glint Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_subsecond_satellite_f1df81",
+      "title": "How a Satellite Flash Can Last Less Than a Second",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Satellite Glint Detection Process",
+        "GN z11 Flash Interpretations",
+        "ZTF and W FAST Survey Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_tumbling_satellite_f_6fbe95",
+      "title": "Can a Tumbling Satellite Look Like It Is Maneuvering?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Satellite Light Curves",
+        "Interpreting Flashing Light Behavior",
+        "Characteristics of Tumbling Debris"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1",
+      "title": "Why Moving Lights on Clouds Become UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Cloud Light Projection",
+        "Searchlight vs. Craft Characteristics",
+        "Regulatory and Historical Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_darwin_wedding_searc_88c2b4",
+      "title": "When Darwin's UFO Lights Became Wedding Searchlights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Darwin Wedding Light Key Stages",
+        "Darwin Sky Phenomenon Interpretations",
+        "Evidence for Holtze Light Source"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_hidden_searchlight_s_b341fa",
+      "title": "Why You May Never See the Searchlight",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Optical Path of a Searchlight",
+        "Searchlight vs. Aerial Object Analysis",
+        "Diagnostic Clues for Searchlights"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_searchlight_cloud_ge_49312f",
+      "title": "Why Searchlight Spots Can Move Impossibly Fast",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ceiling Projector Optical Mechanism",
+        "UFO vs. Projected Light Analysis",
+        "Cloud Geometry Distortion Effects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_searchlight_pattern_34126a",
+      "title": "The Light Patterns That Give Searchlights Away",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Identifying Searchlight Patterns in Footage",
+        "Searchlight vs. Airborne Craft Traits",
+        "Diagnostic Clues for Light Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_searchlights_aviatio_f238f9",
+      "title": "Why Searchlights Matter to Aviation Safety",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "CAA Searchlight Safety Coordination",
+        "Aviation Hazards of Directed Lights",
+        "Searchlight Regulatory Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5",
+      "title": "When Secret Aircraft Become Genuine UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "U 2 Program Secrecy Lifecycle",
+        "UFO Attribution Categories",
+        "U 2 Identification Gap Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_a12_oxcart_ufo_repor_a71c67",
+      "title": "How the A 12 Pushed UFO Confusion Further",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "A 12 OXCART Development and Deployment",
+        "A 12 vs. Conventional Aviation Limits",
+        "Factors Driving UFO Misidentification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_avrocar_ufo_limits_8bff7c",
+      "title": "The Flying Saucer That Could Barely Fly",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Avrocar VZ 9 AV Physical Design",
+        "Avrocar Design vs. Demonstrated Performance",
+        "Evidence Against UFO Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_blue_book_u2_secrecy_103c64",
+      "title": "When Blue Book Knew More Than It Could Say",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "U 2 Identification and Secrecy Workflow",
+        "U 2 Flight Characteristics vs. Civilian Expectations",
+        "Categories of Blue Book Investigation Outcomes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_cia_ufo_majority_cla_351b7b",
+      "title": "Did Spy Planes Cause Most UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "U 2 Reconnaissance and UFO Identification Process",
+        "Verifying the 'More Than Half' Claim",
+        "Project Blue Book Archive Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_u2_ufo_sightings_dd944c",
+      "title": "Why U 2 Flights Looked So Unusual",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "process_steps",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Aviation Altitude Comparison Table",
+        "U 2 Twilight Illumination Mechanism",
+        "U 2 Sighting Identification Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a",
+      "title": "Why Starlink Trains Trigger So Many UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Starlink Satellite Deployment Lifecycle",
+        "Starlink Train vs. Starlink Flare",
+        "Starlink Identification Verification Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_fresh_starlink_train_7caf98",
+      "title": "Why New Starlink Launches Look Like UFO Formations",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Starlink Satellite Deployment Lifecycle",
+        "UAP vs. Starlink Train Analysis",
+        "Starlink Mission Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_2022_pilot_9bdf36",
+      "title": "How Starlink Recreated a Pilots' 2022 UFO Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_petal"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Starlink Group 4 26 Identification Time line",
+        "UAP Sighting Evidence Analysis",
+        "Starlink Visual Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_brightness_ae14a5",
+      "title": "Why Starlink Satellites Brighten and Dim After Launch",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "list_vertical",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Starlink Orbit Raising Optical Evolution",
+        "Starlink V2 Mini Brightness Thresholds",
+        "Variables Influencing Starlink Visibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_spacing_tes_471592",
+      "title": "Can Satellite Spacing Date a Starlink UFO Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Starlink Train Orbital Evolution",
+        "Orbital Spacing vs Visible Light",
+        "Starlink Identification Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_train_fadin_c83195",
+      "title": "Why Starlink Trains Can Suddenly Disappear",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "logic_equation"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Starlink Train Shadow Entry Key Stages",
+        "Satellite Visibility vs. Orbital Motion",
+        "Starlink Train Identification Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6",
+      "title": "How the Causes of UFO Reports Have Changed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of UAP Identification Challenges",
+        "Cold War vs Modern Identification Mix",
+        "Persistent UAP Identification Hurdles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_blue_book_modern_uap_0f0e6a",
+      "title": "What UFO Case Data Says Changed Since Blue Book",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "comparison_columns",
+        "process_pipeline"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Evolution of UAP Identification Environments",
+        "AARO Closed Case Resolution Percentages",
+        "AARO Satellite Flaring Resolution Process"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_drones_modern_ufo_re_44c699",
+      "title": "How Consumer Drones Changed UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "grid_stats",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Project Blue Book vs Modern UAS",
+        "AARO UAP Resolution Statistics",
+        "Drone Visual Characteristics at Night"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_project_mogul_roswel_029c04",
+      "title": "Why Project Mogul Complicated the Roswell Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Incident Historical Time line",
+        "Roswell Debris Interpretation Models",
+        "Project Mogul Component Inventory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_starlink_new_ufo_loo_b0bf25",
+      "title": "Why Starlink Created a New UFO Look",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Starlink Satellite Deployment Phases",
+        "Satellite Reflection Types and Effects",
+        "AARO Satellite Identification Metrics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_u2_cold_war_ufo_repo_f9b892",
+      "title": "How Secret U 2 Flights Became UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "U 2 Misidentification Mechanism",
+        "U 2 vs. Commercial Aviation",
+        "U 2 Program Historical Facts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479",
+      "title": "How Investigators Rebuild a UFO Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "AARO UAP Case Resolution Workflow",
+        "AARO Puerto Rico Case Analysis",
+        "GEIPAN Witness Data Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_first_witness_notes_f129f9",
+      "title": "Why the First UFO Notes Matter Most",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Immediate Sighting Protocol",
+        "Observation vs. Interpretation Data",
+        "High Value Sighting Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_flight_tracking_gaps_d1599e",
+      "title": "Why a Missing Flight Track Proves So Little",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AARO Aircraft Identification Workflow",
+        "Flight Tracking Evidence Asymmetry",
+        "Reasons for Missing Flight Tracks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_satellite_prediction_7b6556",
+      "title": "Was That UFO Actually a Satellite?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Satellite Sighting Reconstruction Workflow",
+        "Satellite Flare vs. UAP Interpretation",
+        "Starlink Satellite Visual Phenomena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_separated_witness_ge_63bbe5",
+      "title": "Can Multiple Witnesses Reveal a UFO's True Position?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Triangulation Geometry for UAP Analysis",
+        "Single vs. Multi Station Observations",
+        "Factors Limiting Triangulation Accuracy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_ufo_weather_records_60d332",
+      "title": "Can Weather Records Explain a UFO Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "UAP Balloon Hypothesis Testing Workflow",
+        "Weather Data Evidence Types",
+        "Historical Meteorological Archives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e",
+      "title": "Why UFO Size Is Impossible Without Distance",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Establishing UAP Physical Scale",
+        "Angular vs Physical Size Ambiguity",
+        "Methods to Resolve Range Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_gofast_ufo_size_limi_93c99c",
+      "title": "Why Go Fast's Range Still Did Not Fix Its Size",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AARO Go Fast Reconstruction Steps",
+        "Telemetry vs. Image Resolution Limits",
+        "Go Fast Data Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_night_ufo_distance_c_d71a44",
+      "title": "Why Night UFOs Are So Hard to Size",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Calculating Physical Size from Night Sightings",
+        "Daylight vs. Nighttime Visual Cues",
+        "Aviation Risks in Dark Environments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_triangle_ufo_light_s_d84d75",
+      "title": "Do Three UFO Lights Prove a Huge Triangle?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hierarchy of Triangular Light Claims",
+        "AARO Western United States Case Analysis",
+        "Evidence for Physical Structure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_ufo_angular_size_ran_2b71d7",
+      "title": "Why the Same UFO Angle Can Mean Any Size",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UAP Angular Size Analysis Workflow",
+        "Angular Size vs Physical Width",
+        "AARO UAP Reporting Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_ufo_brightness_dista_f99a26",
+      "title": "Can a Bright UFO Really Be Judged as Close?",
+      "infographic_count": 3,
+      "templates": [
+        "lighthouse",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Factors Altering Apparent UFO Brightness",
+        "Brightness vs. Distance Reliability",
+        "UAP Size Estimation Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd",
+      "title": "When Video Compression Manufactures UFO Weirdness",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Video Processing Chain Degradation",
+        "Physical Features vs Compression Artifacts",
+        "AARO Atmospheric Wake Case Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_compression_reliabil_646e14",
+      "title": "How Much Compression Makes UFO Footage Unreliable?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "UAP Compression Failure Boundary Stages",
+        "Target Sensitivity to Compression Loss",
+        "Risk Factors for Unreliable UAP Footage"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_false_ufo_appendages_75e9ad",
+      "title": "Can Compression Invent UFO Wings and Appendages?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Compression Noise",
+        "UAP Morphology vs. Codec Artifacts",
+        "Clues of Compression Generated Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_false_ufo_trails_0d593a",
+      "title": "When Video Compression Creates a UFO Trail",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "H.264 Video Compression Workflow",
+        "UAP Trail Interpretation Models",
+        "AARO Atmospheric Wake Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_tiny_targets_lost_sh_f7f270",
+      "title": "When Compression Erases a UFO's Real Shape",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Quantisation Effects on Tiny Targets",
+        "Detection vs Identification Limits",
+        "Common Compression Artifacts in UAP Video"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_zoom_compression_art_4e08b2",
+      "title": "Why Zooming In Can Make UFO Detail Worse",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Digital Video Processing Chain",
+        "Optical vs Digital Magnification",
+        "Compression Artifact Taxonomy in UAP Footage"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

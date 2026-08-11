@@ -1,0 +1,3408 @@
+{
+  "generated_at": "2026-08-12T00:45:44",
+  "passed": true,
+  "baseline": {
+    "article_pages": 282,
+    "amazon_specific_pages": 241,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "ifos_-_causes_of_UFO_5e0c3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_aaro_2024_2025_shift_ab2202": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_aaro_balloon_identif_136876": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_infrared_bird_uap_391c8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_mount_etna_uap_resol_1c6cca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_satellite_flare_reso_136099": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_exeter_ad_plane_reco_54398f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_hidden_airframe_nigh_8c6c6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_illuminated_airships_92d2e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_washington_1977_ad_c_ee21e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_wing_light_sign_ufo_234732": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_fluttering_airborne_2d0694": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_official_kite_debris_d88f14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_tethered_kite_ufo_mo_673939": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_vancouver_led_kite_c_b97899": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_wind_shear_debris_mo_27b1e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_constant_bearing_air_3f30e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_delayed_aircraft_loo_b718eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_flight_data_hovering_74c19b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_landing_lights_hide_06c752": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_long_final_approach_969f75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_cloud_iridescence_br_ba2ad0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_lenticular_hovering_202909": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_light_pillars_ufo_li_6c3507": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_nacreous_twilight_gl_0a5b5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_noctilucent_twilight_38e533": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_auroral_curtains_ufo_284386": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_may_2024_low_latitud_83289e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_red_low_latitude_aur_122959": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_stable_red_arcs_ufo_f4d712": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_steve_purple_ribbon_b549f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_autokinesis_false_ma_f69e6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_fixed_lights_apparen_2b33b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_pilot_autokinesis_de_a34cf9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_slow_motion_autokine_8da688": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_verify_ufo_light_mot_d84c9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_aguadilla_motion_par_e9faf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_al_taqaddum_balloon_b84528": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_balloons_infrared_sh_42291d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_balloon_distance_spe_8da377": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_balloon_wind_shear_de70cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_aaro_bird_case_pr016_5414f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_bird_orb_resolution_8d7244": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_compression_erases_w_bb5e23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_infrared_wingbeat_fl_d66914": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_puerto_rico_bird_tes_16c5cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_cloud_induced_star_m_a2e02b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_sirius_color_flashes_3a6011": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_stars_following_cars_3dee79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_star_autokinesis_130abe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_star_ufo_sky_check_d94840": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_banking_tracked_ufo_6c1d47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_gofast_speed_uncerta_c5c62f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_gofast_telemetry_cam_a2d829": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_target_lock_camera_r_e420cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_tracked_object_altit_456924": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_drone_lights_hide_ai_b1c11a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_drone_yaw_vanishing_1b024f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_hover_then_sudden_de_19942f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_multiple_drone_forma_b7bfcd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_new_jersey_drone_ide_b95dbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_banking_apparent_tar_e53fe4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_carmel_false_horizon_25f3ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_dark_terrain_horizon_1cd394": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_ground_lights_false_08bd45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_sloping_cloud_false_a7e215": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_bromsgrove_redditch_c8d851": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_conisholme_firework_93ac11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_firework_sighting_ti_0d6a42": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_firework_sound_delay_8d4be4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_hidden_firework_laun_3263a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_flare_false_hovering_4497ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_flare_wind_terrain_508787": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_multiple_flare_forma_257b4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_phoenix_late_flare_d_c5e6cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_phoenix_reports_even_c4ea90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_aircraft_lights_paci_c44766": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_foreground_pacing_ef_eb1a02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_long_distance_pursui_419b7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_road_turn_light_illu_1e0b50": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_venus_following_car_3753a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_aircraft_turn_positi_133249": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_haze_aircraft_light_35d25c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_haze_aircraft_outlin_ef1147": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_head_on_aircraft_fal_610abe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_long_sight_path_haze_2d37db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_autokinesis_helicopt_c6d50c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_helicopter_hovering_083885": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_helicopter_searchlig_c32a9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_melbourne_helicopter_2b0202": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_rotating_navigation_348092": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_aaro_aircraft_infrar_034da0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_atmospheric_wakes_se_d92bfc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_gimbal_glare_explana_a35000": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_infrared_apparent_si_f498bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_infrared_saturation_097be3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_fireball_distance_sp_ca4dc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_fireball_timing_clus_51c1c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_fragmenting_fireball_d0f688": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_multi_state_fireball_bb64a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_winchcombe_fireball_259429": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_aircraft_inversion_m_e2d4eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_distorted_low_stars_7ead44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_fata_morgana_distort_cd1317": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_floating_ship_superi_d601c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_mirage_grazing_angle_966878": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_aaro_active_archive_7c5de4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_pr008_heat_signature_401999": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_pr018_long_video_lim_0bbd6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_ufo_multi_sensor_evi_7271d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_ufo_time_location_ga_94674c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_flares_hovering_form_972ef7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_satellite_flares_uap_4f830d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_starlink_ufo_formati_a0ed28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_star_aircraft_light_5a3f94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_two_aircraft_one_cra_3c3cea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_background_projectio_4f137b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_hidden_aircraft_turn_af779a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_lost_spatial_context_15116d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_tracking_lock_backgr_d5f03c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_ufo_motion_metadata_d3cda8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_aircraft_lights_merg_c475bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_night_light_backgrou_ca6fdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_night_vision_aircraf_eea235": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_observer_motion_nigh_d429e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_satellite_flares_ufo_d24f75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_aguadilla_parallax_s_d0ba82": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_aircraft_motion_para_2399b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_gofast_speed_illusio_fc9eb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_narrow_fov_ufo_speed_c8debe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_unknown_range_speed_bd71b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_cloud_induced_planet_420bb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_condon_case37_planet_75b02d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_planet_autokinesis_u_fb4779": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_venus_following_car_039c6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_venus_position_ufo_c_b0c361": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_aircraft_u_488c4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_astronomic_e5993e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_balloon_uf_05ed8b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_special_re_0496c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_satellites_blue_book_8febd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_atmospheric_radar_du_ba7feb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_biological_radar_ech_67bae9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_false_radar_tracks_d5a3ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_radar_range_ambiguit_58b5be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_radar_velocity_foldi_004905": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_falcon9_reentry_sign_fca289": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_reentry_false_struct_16b5a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_reentry_record_match_6781fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_skylab_fleet_lights_42c7d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_zond4_structured_ufo_32f33b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_car_window_false_ufo_f94aa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_cockpit_reflection_u_e8035d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_double_glazing_dupli_176ed6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_lens_ghost_structure_3840b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_reflection_false_ufo_f2e554": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_california_2017_rock_719bc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_nrol69_europe_spiral_fe1f44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_stage_separation_ufo_4f5894": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_twilight_rocket_plum_ddbb62": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_upper_stage_sky_spir_6d5730": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_iridium_predictable_4ee836": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_satellite_prediction_728b20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_starlink_horizon_gli_6d622b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_subsecond_satellite_f1df81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_tumbling_satellite_f_6fbe95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_darwin_wedding_searc_88c2b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_hidden_searchlight_s_b341fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_searchlights_aviatio_f238f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_searchlight_cloud_ge_49312f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_searchlight_pattern_34126a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_a12_oxcart_ufo_repor_a71c67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_avrocar_ufo_limits_8bff7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_blue_book_u2_secrecy_103c64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_cia_ufo_majority_cla_351b7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_u2_ufo_sightings_dd944c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_fresh_starlink_train_7caf98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_2022_pilot_9bdf36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_brightness_ae14a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_spacing_tes_471592": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_train_fadin_c83195": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_blue_book_modern_uap_0f0e6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_drones_modern_ufo_re_44c699": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_project_mogul_roswel_029c04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_starlink_new_ufo_loo_b0bf25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_u2_cold_war_ufo_repo_f9b892": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_first_witness_notes_f129f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_flight_tracking_gaps_d1599e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_satellite_prediction_7b6556": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_separated_witness_ge_63bbe5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_ufo_weather_records_60d332": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_gofast_ufo_size_limi_93c99c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_night_ufo_distance_c_d71a44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_triangle_ufo_light_s_d84d75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_ufo_angular_size_ran_2b71d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_ufo_brightness_dista_f99a26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_compression_reliabil_646e14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_false_ufo_appendages_75e9ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_false_ufo_trails_0d593a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_tiny_targets_lost_sh_f7f270": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_zoom_compression_art_4e08b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 282,
+    "amazon_specific_pages": 241,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "ifos_-_causes_of_UFO_5e0c3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_aaro_2024_2025_shift_ab2202": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_aaro_balloon_identif_136876": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_infrared_bird_uap_391c8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_mount_etna_uap_resol_1c6cca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a_satellite_flare_reso_136099": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_exeter_ad_plane_reco_54398f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_hidden_airframe_nigh_8c6c6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_illuminated_airships_92d2e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_washington_1977_ad_c_ee21e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12_wing_light_sign_ufo_234732": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_fluttering_airborne_2d0694": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_official_kite_debris_d88f14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_tethered_kite_ufo_mo_673939": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_vancouver_led_kite_c_b97899": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_airborne_debris_ufos_aadd11_wind_shear_debris_mo_27b1e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_constant_bearing_air_3f30e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_delayed_aircraft_loo_b718eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_flight_data_hovering_74c19b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_landing_lights_hide_06c752": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46_long_final_approach_969f75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_cloud_iridescence_br_ba2ad0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_lenticular_hovering_202909": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_light_pillars_ufo_li_6c3507": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_nacreous_twilight_gl_0a5b5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949_noctilucent_twilight_38e533": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_auroral_curtains_ufo_284386": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_may_2024_low_latitud_83289e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_red_low_latitude_aur_122959": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_stable_red_arcs_ufo_f4d712": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2_steve_purple_ribbon_b549f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_autokinesis_false_ma_f69e6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_fixed_lights_apparen_2b33b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_pilot_autokinesis_de_a34cf9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_slow_motion_autokine_8da688": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_autokinesis_ufo_effe_f374dc_verify_ufo_light_mot_d84c9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_aguadilla_motion_par_e9faf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_al_taqaddum_balloon_b84528": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_balloons_infrared_sh_42291d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_balloon_distance_spe_8da377": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_balloon_wind_shear_de70cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_balloons_as_ufo_repo_6a7010_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_aaro_bird_case_pr016_5414f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_bird_orb_resolution_8d7244": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_compression_erases_w_bb5e23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_infrared_wingbeat_fl_d66914": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f_puerto_rico_bird_tes_16c5cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_cloud_induced_star_m_a2e02b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_sirius_color_flashes_3a6011": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_stars_following_cars_3dee79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_star_autokinesis_130abe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_bright_stars_as_ufos_c6a926_star_ufo_sky_check_d94840": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_banking_tracked_ufo_6c1d47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_gofast_speed_uncerta_c5c62f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_gofast_telemetry_cam_a2d829": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_target_lock_camera_r_e420cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_camera_tracking_moti_39bd49_tracked_object_altit_456924": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_drone_lights_hide_ai_b1c11a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_drone_yaw_vanishing_1b024f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_hover_then_sudden_de_19942f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_multiple_drone_forma_b7bfcd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd_new_jersey_drone_ide_b95dbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_banking_apparent_tar_e53fe4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_carmel_false_horizon_25f3ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_dark_terrain_horizon_1cd394": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_ground_lights_false_08bd45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b_sloping_cloud_false_a7e215": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_bromsgrove_redditch_c8d851": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_conisholme_firework_93ac11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_firework_sighting_ti_0d6a42": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_firework_sound_delay_8d4be4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_hidden_firework_laun_3263a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_flare_false_hovering_4497ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_flare_wind_terrain_508787": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_multiple_flare_forma_257b4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_phoenix_late_flare_d_c5e6cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_flares_ufo_reports_714a4a_phoenix_reports_even_c4ea90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_aircraft_lights_paci_c44766": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_foreground_pacing_ef_eb1a02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_long_distance_pursui_419b7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_road_turn_light_illu_1e0b50": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_following_light_illu_d35768_venus_following_car_3753a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_aircraft_turn_positi_133249": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_haze_aircraft_light_35d25c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_haze_aircraft_outlin_ef1147": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_head_on_aircraft_fal_610abe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_haze_aircraft_ufo_e65bca_long_sight_path_haze_2d37db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_autokinesis_helicopt_c6d50c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_helicopter_hovering_083885": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_helicopter_searchlig_c32a9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_melbourne_helicopter_2b0202": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_rotating_navigation_348092": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_aaro_aircraft_infrar_034da0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_atmospheric_wakes_se_d92bfc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_gimbal_glare_explana_a35000": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_infrared_apparent_si_f498bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_infrared_glare_283d29_infrared_saturation_097be3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_fireball_distance_sp_ca4dc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_fireball_timing_clus_51c1c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_fragmenting_fireball_d0f688": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_multi_state_fireball_bb64a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_meteors_fireballs_551504_winchcombe_fireball_259429": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_aircraft_inversion_m_e2d4eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_distorted_low_stars_7ead44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_fata_morgana_distort_cd1317": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_floating_ship_superi_d601c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709_mirage_grazing_angle_966878": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_aaro_active_archive_7c5de4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_pr008_heat_signature_401999": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_pr018_long_video_lim_0bbd6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_ufo_multi_sensor_evi_7271d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_missing_data_unresol_5b9938_ufo_time_location_ga_94674c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_flares_hovering_form_972ef7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_satellite_flares_uap_4f830d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_starlink_ufo_formati_a0ed28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_star_aircraft_light_5a3f94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02_two_aircraft_one_cra_3c3cea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_background_projectio_4f137b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_hidden_aircraft_turn_af779a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_lost_spatial_context_15116d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_tracking_lock_backgr_d5f03c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618_ufo_motion_metadata_d3cda8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_aircraft_lights_merg_c475bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_night_light_backgrou_ca6fdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_night_vision_aircraf_eea235": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_observer_motion_nigh_d429e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a_satellite_flares_ufo_d24f75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_aguadilla_parallax_s_d0ba82": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_aircraft_motion_para_2399b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_gofast_speed_illusio_fc9eb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_narrow_fov_ufo_speed_c8debe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_parallax_ufo_speed_339b9d_unknown_range_speed_bd71b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_cloud_induced_planet_420bb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_condon_case37_planet_75b02d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_planet_autokinesis_u_fb4779": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_venus_following_car_039c6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a_venus_position_ufo_c_b0c361": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_aircraft_u_488c4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_astronomic_e5993e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_balloon_uf_05ed8b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_blue_book_special_re_0496c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_project_blue_book_if_a92582_satellites_blue_book_8febd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_atmospheric_radar_du_ba7feb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_biological_radar_ech_67bae9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_false_radar_tracks_d5a3ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_radar_range_ambiguit_58b5be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d_radar_velocity_foldi_004905": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_falcon9_reentry_sign_fca289": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_reentry_false_struct_16b5a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_reentry_record_match_6781fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_skylab_fleet_lights_42c7d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb_zond4_structured_ufo_32f33b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_car_window_false_ufo_f94aa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_cockpit_reflection_u_e8035d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_double_glazing_dupli_176ed6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_lens_ghost_structure_3840b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_reflections_phantom_4794fd_reflection_false_ufo_f2e554": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_california_2017_rock_719bc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_nrol69_europe_spiral_fe1f44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_stage_separation_ufo_4f5894": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_twilight_rocket_plum_ddbb62": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482_upper_stage_sky_spir_6d5730": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_iridium_predictable_4ee836": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_satellite_prediction_728b20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_starlink_horizon_gli_6d622b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_subsecond_satellite_f1df81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_satellite_flares_57c67f_tumbling_satellite_f_6fbe95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_darwin_wedding_searc_88c2b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_hidden_searchlight_s_b341fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_searchlights_aviatio_f238f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_searchlight_cloud_ge_49312f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_searchlights_clouds_76dbe1_searchlight_pattern_34126a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_a12_oxcart_ufo_repor_a71c67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_avrocar_ufo_limits_8bff7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_blue_book_u2_secrecy_103c64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_cia_ufo_majority_cla_351b7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_secret_aircraft_ufo_3ef2a5_u2_ufo_sightings_dd944c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_fresh_starlink_train_7caf98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_2022_pilot_9bdf36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_brightness_ae14a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_spacing_tes_471592": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_starlink_ufo_reports_e2191a_starlink_train_fadin_c83195": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_blue_book_modern_uap_0f0e6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_drones_modern_ufo_re_44c699": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_project_mogul_roswel_029c04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_starlink_new_ufo_loo_b0bf25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6_u2_cold_war_ufo_repo_f9b892": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_first_witness_notes_f129f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_flight_tracking_gaps_d1599e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_satellite_prediction_7b6556": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_separated_witness_ge_63bbe5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_ufo_sighting_reconst_543479_ufo_weather_records_60d332": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_gofast_ufo_size_limi_93c99c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_night_ufo_distance_c_d71a44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_triangle_ufo_light_s_d84d75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_ufo_angular_size_ran_2b71d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e_ufo_brightness_dista_f99a26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_compression_reliabil_646e14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_false_ufo_appendages_75e9ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_false_ufo_trails_0d593a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_tiny_targets_lost_sh_f7f270": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd_zoom_compression_art_4e08b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 282,
+  "regressions": []
+}

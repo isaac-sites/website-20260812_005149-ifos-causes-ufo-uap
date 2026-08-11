@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="dark" data-semantic-intent="continuum" data-relation-type="taxonomy" data-site-visual-identity="signal-cobalt">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --semantic-risk: #f87171;
+    --semantic-warning: #fb923c;
+    --semantic-uncertain: #fbbf24;
+    --semantic-evidence: #60a5fa;
+    --semantic-claim: #c084fc;
+    --semantic-positive: #4ade80;
+    --semantic-outcome: #22d3ee;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif;
+    --font-family-body: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif;
+    --font-heading: var(--font-family-headline);
+    --font-body: var(--font-family-body);
+    --font-size-h1: 64px;
+    --font-size-h2: 42px;
+    --font-size-h3: 29px;
+    --font-size-body: 21px;
+    --font-size-caption: 17px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #93c5fd;
+    --accent-2: #60a5fa;
+    --accent-3: #818cf8;
+    --accent-4: #a78bfa;
+    --accent-5: #38bdf8;
+    --accent-6: #fb923c;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --semantic-risk: #f87171;
+    --semantic-warning: #fb923c;
+    --semantic-uncertain: #fbbf24;
+    --semantic-evidence: #60a5fa;
+    --semantic-claim: #c084fc;
+    --semantic-positive: #4ade80;
+    --semantic-outcome: #22d3ee;
+    --accent-1: #93c5fd;
+    --accent-2: #60a5fa;
+    --accent-3: #818cf8;
+    --accent-4: #a78bfa;
+    --accent-5: #38bdf8;
+    --accent-6: #fb923c;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --semantic-risk: #b91c1c;
+    --semantic-warning: #c2410c;
+    --semantic-uncertain: #a16207;
+    --semantic-evidence: #1d4ed8;
+    --semantic-claim: #6d28d9;
+    --semantic-positive: #15803d;
+    --semantic-outcome: #0e7490;
+    --accent-1: #1d4ed8;
+    --accent-2: #2563eb;
+    --accent-3: #4f46e5;
+    --accent-4: #6d28d9;
+    --accent-5: #0369a1;
+    --accent-6: #c2410c;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#0f172a" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="127.0" y2="127.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svg397111b7-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="svg397111b7-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#000000" flood-opacity="0.10"/>
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.16"/>
+    </filter>
+    <radialGradient id="svg397111b7-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svg397111b7-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg397111b7-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="svg397111b7-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <marker id="svg397111b7-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svg397111b7-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg397111b7-universal-edge-vignette)" opacity="0.62"/>
+  <text id="TITLE" x="960.0" y="59" text-anchor="middle" font-size="60" font-weight="800" fill="#f1f5f9" style="font-size: 69px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-1.2px;" data-final-font-size="69">
+    <tspan x="960.0" dy="70.47px">Diagnostic Clues for Cloud Iridescence</tspan>
+  </text>
+  <rect id="TITLE_FRAME" x="134" y="54" width="1652" height="100" fill="none"/>
+  <rect x="150" y="150" width="1620" height="850" rx="40" fill="var(--panel)" fill-opacity="0.18" stroke="var(--muted-text)" stroke-width="2" opacity="0.90"/>
+  <line x1="360" y1="212.0" x2="360" y2="938.0" stroke="var(--muted-text)" stroke-width="18" stroke-linecap="round" opacity="0.18"/>
+  <line x1="360" y1="212.0" x2="360" y2="938.0" stroke="var(--border)" stroke-width="3" stroke-linecap="round" opacity="0.72"/>
+  <g id="DIAGRAM_MAIN">
+    <g filter="url(#svg397111b7-shadow)">
+      <line x1="404.0" y1="240.0" x2="420.0" y2="240.0" stroke="var(--accent-1)" stroke-width="5" opacity="0.76" stroke-linecap="round"/>
+      <rect id="ITEM_1_BG" x="420.0" y="174.0" width="1085" height="152" rx="22" fill="var(--panel)" fill-opacity="0.97" stroke="var(--accent-1)" stroke-width="2.5"/>
+      <rect x="420.0" y="174.0" width="1085" height="152" rx="16" fill="url(#svg397111b7-universal-surface-sheen)" opacity="0.88"/>
+      <rect x="420.0" y="174.0" width="14" height="132" rx="7" fill="var(--accent-1)" fill-opacity="0.90"/>
+      <circle id="ITEM_1_PAD" cx="360" cy="240.0" r="46" fill="var(--icon-pad-bg)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke="var(--accent-1)" stroke-opacity="0.72" data-badge-layer="pad"/>
+      <circle id="ITEM_1_PAD_INNER" cx="360" cy="240.0" r="35.88" fill="var(--accent-1)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+      <circle cx="360" cy="240.0" r="38" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+      <g id="ITEM_1_ICON" transform="translate(324, 204.0)" data-icon-size="72" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+        <g transform="translate(-8.307692307692308,-8.307692307692308) scale(3.6923076923076925)" vector-effect="non-scaling-stroke" stroke-width="2.58" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <path d="M3 21L3 3L9 3V15L21 15V21H3Z" stroke="#f1f5f9" vector-effect="non-scaling-stroke" fill="none"/>
+          <path d="M13 19V21" stroke="#f1f5f9" vector-effect="non-scaling-stroke" fill="none"/>
+          <path d="M9 19V21" stroke="#f1f5f9" vector-effect="non-scaling-stroke" fill="none"/>
+          <path d="M3 7H5" stroke="#f1f5f9" vector-effect="non-scaling-stroke" fill="none"/>
+          <path d="M3 11H5" stroke="#f1f5f9" vector-effect="non-scaling-stroke" fill="none"/>
+          <path d="M3 15H5" stroke="#f1f5f9" vector-effect="non-scaling-stroke" fill="none"/>
+          <path d="M17 19V21" stroke="#f1f5f9" vector-effect="non-scaling-stroke" fill="none"/>
+        </g>
+      </g>
+      <text id="ITEM_1_HEAD" x="500.0" y="192.0" text-anchor="start" font-weight="800" font-size="30" fill="var(--accent-1)" data-bg-id="ITEM_1_BG" fill-opacity="1.0" stroke="none" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+        <tspan x="500.0" dy="27.40px">Solar Proximity</tspan>
+      </text>
+      <rect id="ITEM_1_HEAD_FRAME" x="500" y="192.0" width="760" height="32" fill="none"/>
+      <text id="ITEM_1_BODY" x="500.0" y="230.0" text-anchor="start" font-size="24" fill="var(--primary-text)" data-bg-id="ITEM_1_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+        <tspan x="500.0" dy="30.10px">Colors typically appear within 30 degrees of the Sun</tspan>
+      </text>
+      <rect id="ITEM_1_BODY_FRAME" x="500" y="230.0" width="860" height="72" fill="none"/>
+      <text x="1460" y="216.0" text-anchor="end" font-size="18" font-weight="800" fill="var(--accent-1)" opacity="0.70">01</text>
+    </g>
+    <g filter="url(#svg397111b7-shadow)">
+      <line x1="404.0" y1="407.5" x2="420.0" y2="407.5" stroke="var(--accent-2)" stroke-width="5" opacity="0.76" stroke-linecap="round"/>
+      <rect id="ITEM_2_BG" x="420.0" y="341.5" width="1085" height="152" rx="22" fill="var(--panel)" fill-opacity="0.97" stroke="var(--accent-2)" stroke-width="2.5"/>
+      <rect x="420.0" y="341.5" width="1085" height="152" rx="16" fill="url(#svg397111b7-universal-surface-sheen)" opacity="0.88"/>
+      <rect x="420.0" y="341.5" width="14" height="132" rx="7" fill="var(--accent-2)" fill-opacity="0.90"/>
+      <circle id="ITEM_2_PAD" cx="360" cy="407.5" r="46" fill="var(--icon-pad-bg)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke="var(--accent-2)" stroke-opacity="0.72" data-badge-layer="pad"/>
+      <circle id="ITEM_2_PAD_INNER" cx="360" cy="407.5" r="35.88" fill="var(--accent-2)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+      <circle cx="360" cy="407.5" r="38" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+      <g id="ITEM_2_ICON" transform="translate(324, 371.5)" data-icon-size="72" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+        <g transform="translate(-8.307692307692308,-8.307692307692308) scale(3.6923076923076925)" vector-effect="non-scaling-stroke" stroke-width="2.58" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <path fill-rule="evenodd" d="M2.25 4.125c0-1.036.84-1.875 1.875-1.875h5.25c1.036 0 1.875.84 1.875 1.875V17.25a4.5 4.5 0 1 1-9 0V4.125Zm4.5 14.25a1.125 1.125 0 1 0 0-2.25 1.125 1.125 0 0 0 0 2.25Z" clip-rule="evenodd" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <path d="M10.719 21.75h9.156c1.036 0 1.875-.84 1.875-1.875v-5.25c0-1.036-.84-1.875-1.875-1.875h-.14l-8.742 8.743c-.09.089-.18.175-.274.257ZM12.738 17.625l6.474-6.474a1.875 1.875 0 0 0 0-2.651L15.5 4.787a1.875 1.875 0 0 0-2.651 0l-.1.099V17.25c0 .126-.003.251-.01.375Z" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        </g>
+      </g>
+      <text id="ITEM_2_HEAD" x="500.0" y="359.5" text-anchor="start" font-weight="800" font-size="30" fill="var(--accent-2)" data-bg-id="ITEM_2_BG" fill-opacity="1.0" stroke="none" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+        <tspan x="500.0" dy="27.40px">Cloud Texture</tspan>
+      </text>
+      <rect id="ITEM_2_HEAD_FRAME" x="500" y="359.5" width="760" height="32" fill="none"/>
+      <text id="ITEM_2_BODY" x="500.0" y="397.5" text-anchor="start" font-size="24" fill="var(--primary-text)" data-bg-id="ITEM_2_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+        <tspan x="500.0" dy="30.10px">Colors follow wisps, edges, or changing cloud structures</tspan>
+      </text>
+      <rect id="ITEM_2_BODY_FRAME" x="500" y="397.5" width="860" height="72" fill="none"/>
+      <text x="1460" y="383.5" text-anchor="end" font-size="18" font-weight="800" fill="var(--accent-2)" opacity="0.70">02</text>
+    </g>
+    <g filter="url(#svg397111b7-shadow)">
+      <line x1="404.0" y1="575.0" x2="420.0" y2="575.0" stroke="var(--accent-3)" stroke-width="5" opacity="0.76" stroke-linecap="round"/>
+      <rect id="ITEM_3_BG" x="420.0" y="509.0" width="1085" height="152" rx="22" fill="var(--panel)" fill-opacity="0.97" stroke="var(--accent-3)" stroke-width="2.5"/>
+      <rect x="420.0" y="509.0" width="1085" height="152" rx="16" fill="url(#svg397111b7-universal-surface-sheen)" opacity="0.88"/>
+      <rect x="420.0" y="509.0" width="14" height="132" rx="7" fill="var(--accent-3)" fill-opacity="0.90"/>
+      <circle id="ITEM_3_PAD" cx="360" cy="575.0" r="46" fill="var(--icon-pad-bg)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke="var(--accent-3)" stroke-opacity="0.72" data-badge-layer="pad"/>
+      <circle id="ITEM_3_PAD_INNER" cx="360" cy="575.0" r="35.88" fill="var(--accent-3)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+      <circle cx="360" cy="575.0" r="38" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+      <g id="ITEM_3_ICON" transform="translate(324, 539.0)" data-icon-size="72" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+        <g transform="translate(-3.050847457627119,-3.050847457627119) scale(3.2542372881355934)" vector-effect="non-scaling-stroke" stroke-width="2.58" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <line x1="22" x2="2" y1="6" y2="6" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <line x1="22" x2="2" y1="18" y2="18" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <line x1="6" x2="6" y1="2" y2="22" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <line x1="18" x2="18" y1="2" y2="22" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        </g>
+      </g>
+      <text id="ITEM_3_HEAD" x="500.0" y="527.0" text-anchor="start" font-weight="800" font-size="30" fill="var(--accent-3)" data-bg-id="ITEM_3_BG" fill-opacity="1.0" stroke="none" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+        <tspan x="500.0" dy="27.40px">Partial Transparency</tspan>
+      </text>
+      <rect id="ITEM_3_HEAD_FRAME" x="500" y="527.0" width="760" height="32" fill="none"/>
+      <text id="ITEM_3_BODY" x="500.0" y="565.0" text-anchor="start" font-size="24" fill="var(--primary-text)" data-bg-id="ITEM_3_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+        <tspan x="500.0" dy="30.10px">Visible blue sky or faint texture through the cloud</tspan>
+      </text>
+      <rect id="ITEM_3_BODY_FRAME" x="500" y="565.0" width="860" height="72" fill="none"/>
+      <text x="1460" y="551.0" text-anchor="end" font-size="18" font-weight="800" fill="var(--accent-3)" opacity="0.70">03</text>
+    </g>
+    <g filter="url(#svg397111b7-shadow)">
+      <line x1="404.0" y1="742.5" x2="420.0" y2="742.5" stroke="var(--accent-4)" stroke-width="5" opacity="0.76" stroke-linecap="round"/>
+      <rect id="ITEM_4_BG" x="420.0" y="676.5" width="1085" height="152" rx="22" fill="var(--panel)" fill-opacity="0.97" stroke="var(--accent-4)" stroke-width="2.5"/>
+      <rect x="420.0" y="676.5" width="1085" height="152" rx="16" fill="url(#svg397111b7-universal-surface-sheen)" opacity="0.88"/>
+      <rect x="420.0" y="676.5" width="14" height="132" rx="7" fill="var(--accent-4)" fill-opacity="0.90"/>
+      <circle id="ITEM_4_PAD" cx="360" cy="742.5" r="46" fill="var(--icon-pad-bg)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke="var(--accent-1)" stroke-opacity="0.72" data-badge-layer="pad"/>
+      <circle id="ITEM_4_PAD_INNER" cx="360" cy="742.5" r="35.88" fill="var(--accent-1)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+      <circle cx="360" cy="742.5" r="38" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+      <g id="ITEM_4_ICON" transform="translate(324, 706.5)" data-icon-size="72" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+        <g transform="translate(0.0,0.0) scale(5.142857142857143)" vector-effect="non-scaling-stroke" stroke-width="2.58" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <path id="Vector" fill="none" d="M6 11.5a5.5 5.5 0 1 0 0 -11 5.5 5.5 0 0 0 0 11Z" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
+          <path id="Vector_2" stroke="#f1f5f9" d="M6 11.5a5.5 5.5 0 1 0 0 -11 5.5 5.5 0 0 0 0 11Z" vector-effect="non-scaling-stroke" fill="none"/>
+          <path id="Vector_3" stroke="#f1f5f9" d="M13.5 13.5 10 10" vector-effect="non-scaling-stroke" fill="none"/>
+        </g>
+      </g>
+      <text id="ITEM_4_HEAD" x="500.0" y="694.5" text-anchor="start" font-weight="800" font-size="30" fill="var(--accent-1)" data-bg-id="ITEM_4_BG" fill-opacity="1.0" stroke="none" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+        <tspan x="500.0" dy="27.40px">Specific Cloud Types</tspan>
+      </text>
+      <rect id="ITEM_4_HEAD_FRAME" x="500" y="694.5" width="760" height="32" fill="none"/>
+      <text id="ITEM_4_BODY" x="500.0" y="732.5" text-anchor="start" font-size="24" fill="var(--primary-text)" data-bg-id="ITEM_4_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+        <tspan x="500.0" dy="30.10px">Altocumulus and lenticular clouds favor these optical effects</tspan>
+      </text>
+      <rect id="ITEM_4_BODY_FRAME" x="500" y="732.5" width="860" height="72" fill="none"/>
+      <text x="1460" y="718.5" text-anchor="end" font-size="18" font-weight="800" fill="var(--accent-4)" opacity="0.70">04</text>
+    </g>
+    <g filter="url(#svg397111b7-shadow)">
+      <line x1="404.0" y1="910.0" x2="420.0" y2="910.0" stroke="var(--accent-5)" stroke-width="5" opacity="0.76" stroke-linecap="round"/>
+      <rect id="ITEM_5_BG" x="420.0" y="844.0" width="1085" height="152" rx="22" fill="var(--panel)" fill-opacity="0.97" stroke="var(--accent-5)" stroke-width="2.5"/>
+      <rect x="420.0" y="844.0" width="1085" height="152" rx="16" fill="url(#svg397111b7-universal-surface-sheen)" opacity="0.88"/>
+      <rect x="420.0" y="844.0" width="14" height="132" rx="7" fill="var(--accent-5)" fill-opacity="0.90"/>
+      <circle id="ITEM_5_PAD" cx="360" cy="910.0" r="46" fill="var(--icon-pad-bg)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke="var(--accent-2)" stroke-opacity="0.72" data-badge-layer="pad"/>
+      <circle id="ITEM_5_PAD_INNER" cx="360" cy="910.0" r="35.88" fill="var(--accent-2)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+      <circle cx="360" cy="910.0" r="38" fill="none" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+      <g id="ITEM_5_ICON" transform="translate(324, 874.0)" data-icon-size="72" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+        <g transform="translate(-5.142857142857143,-5.142857142857143) scale(2.5714285714285716)">
+          <path d="M2.525 22.9386L5.505 19.9586C5.755 19.6986 6.095 19.5386 6.455 19.4986L11.775 18.7886L8.99492 22.6507L5.075 25.4886C4.365 26.1886 3.225 26.1886 2.525 25.4886C1.825 24.7786 1.825 23.6386 2.525 22.9386Z" fill="#635994"/>
+          <path d="M8.99492 29.4685L11.9749 26.4885C12.2349 26.2285 12.3949 25.8985 12.4349 25.5385L13.1449 20.2185L9.28867 23.0539L6.44492 26.9185C5.74492 27.6285 5.74492 28.7685 6.44492 29.4685C7.15492 30.1685 8.29492 30.1685 8.99492 29.4685Z" fill="#635994"/>
+          <path d="M23.8229 6.73645L25.2371 6.84396V8.15066L6.55208 26.8357C6.16155 27.2262 5.52839 27.2262 5.13786 26.8357C4.74734 26.4451 4.74734 25.812 5.13786 25.4214L23.8229 6.73645Z" fill="#F3AD61"/>
+          <path d="M17.585 6.38853V6.37853C15.975 5.92853 14.255 5.88853 12.565 6.27853C10.7472 6.70931 8.87731 6.30873 7.41595 5.2047L5.73111 6.38853L4.65064 7.97001C7.08481 10.0169 10.316 10.8007 13.455 10.0685C14.495 9.82853 15.545 9.85853 16.525 10.1285L18.0597 8.5321L17.555 6.38853H17.585Z" fill="#7D4533"/>
+          <path d="M3.9187 7.28774C3.23596 6.52309 3.26141 5.34251 3.99505 4.61853C4.72851 3.89472 5.89971 3.86945 6.66374 4.5427L5.47533 6.27853L3.9187 7.28774Z" fill="#7D4533"/>
+          <path d="M25.335 13.6185L22.9365 13.1702L21.695 14.9585C22.105 16.0785 22.195 17.3085 21.905 18.5285C21.1804 21.635 21.9405 24.8316 23.9401 27.2568L25.695 26.1809L26.7155 24.4906C25.6608 23.0409 25.2802 21.2046 25.695 19.4185C26.155 17.4385 26.015 15.4385 25.335 13.6185Z" fill="#7D4533"/>
+          <path d="M27.3682 25.2519L25.695 26.5049L24.6138 27.9973C25.3744 28.7485 26.5979 28.7456 27.355 27.9885C28.1105 27.233 28.115 26.0129 27.3682 25.2519Z" fill="#7D4533"/>
+          <path d="M25.335 13.6185L21.685 14.9585C21.375 14.0985 20.885 13.3385 20.245 12.6985L19.275 11.7285C18.515 10.9685 17.565 10.4185 16.525 10.1285L17.555 6.37854C19.245 6.83854 20.785 7.73854 22.025 8.97854L22.995 9.94854C24.035 10.9985 24.825 12.2285 25.335 13.6185Z" fill="#FCD53F"/>
+          <path d="M29.395 2.01858L22.055 3.98858C21.715 4.07858 21.595 4.50858 21.845 4.75858L27.225 10.1386C27.475 10.3886 27.905 10.2786 27.995 9.92858L29.965 2.58858C30.055 2.23858 29.735 1.91858 29.395 2.01858Z" fill="#D3D3D3"/>
+          <path d="M4.49857 8.12208C4.30331 8.31734 3.98673 8.31734 3.79147 8.12208C3.5962 7.92682 3.5962 7.61023 3.79147 7.41497L6.82147 4.38497C7.01673 4.18971 7.33331 4.18971 7.52857 4.38497C7.72383 4.58023 7.72383 4.89682 7.52857 5.09208L4.49857 8.12208Z" fill="#D3D3D3"/>
+          <path d="M4.72688 8.0335C5.05152 8.30116 5.38998 8.5466 5.74019 8.76925L6.02191 24.5374L5.13787 25.4214C5.10177 25.4575 5.06901 25.4957 5.03958 25.5356L4.72688 8.0335Z" fill="#D3D3D3"/>
+          <path d="M23.1966 26.2314L7.45341 25.9343L6.55208 26.8357C6.52324 26.8645 6.49307 26.8912 6.46177 26.9158L23.9307 27.2454C23.6636 26.9205 23.4187 26.5818 23.1966 26.2314Z" fill="#D3D3D3"/>
+          <path d="M26.8221 24.3844C27.0176 24.1894 27.3342 24.19 27.5292 24.3856C27.7241 24.5811 27.7236 24.8977 27.528 25.0927L24.498 28.1127C24.3024 28.3076 23.9858 28.3071 23.7909 28.1115C23.5959 27.9159 23.5965 27.5993 23.7921 27.4044L26.8221 24.3844Z" fill="#D3D3D3"/>
+        </g>
+      </g>
+      <text id="ITEM_5_HEAD" x="500.0" y="862.0" text-anchor="start" font-weight="800" font-size="30" fill="var(--accent-2)" data-bg-id="ITEM_5_BG" fill-opacity="1.0" stroke="none" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+        <tspan x="500.0" dy="27.40px">Lack of Rainbow</tspan>
+      </text>
+      <rect id="ITEM_5_HEAD_FRAME" x="500" y="862.0" width="760" height="32" fill="none"/>
+      <text id="ITEM_5_BODY" x="500.0" y="900.0" text-anchor="start" font-size="24" fill="var(--primary-text)" data-bg-id="ITEM_5_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+        <tspan x="500.0" dy="30.10px">Colors appear without a conventional ordered rainbow arc</tspan>
+      </text>
+      <rect id="ITEM_5_BODY_FRAME" x="500" y="900.0" width="860" height="72" fill="none"/>
+      <text x="1460" y="886.0" text-anchor="end" font-size="18" font-weight="800" fill="var(--accent-5)" opacity="0.70">05</text>
+    </g>
+  </g>
+  <text id="SOURCE_NOTE" x="134.0" y="1058.0" fill="var(--muted-text)" opacity="1" style="font-family: var(--font-family); font-size: 20px;">Source: International Cloud Atlas Irisation or Iridescence | International Cloud Atlas</text>
+  <text id="EDITORIAL_NOTE" x="1786.0" y="1058.0" fill="var(--semantic-uncertain)" opacity="1" style="font-family: var(--font-family); font-size: 20px;" text-anchor="end">Interpretations remain disputed; wording reflects source uncertainty.</text>
+</svg>
