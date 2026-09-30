@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-atmospheric/
 description: Focused pages that expand on Atmosphere.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_atmospheric_ufo_effe_5e0949
 parent_title: Atmosphere | ifos causes of UFO

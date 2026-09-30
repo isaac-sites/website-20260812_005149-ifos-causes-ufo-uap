@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-08 22:19:14'
+last_modified_at: '2026-08-08 22:19:14'
 parent_title: When a Fireball Becomes a UFO Sighting | ifos causes of UFO
 parent_permalink: /meteors/
 parent_nav_short_title: Meteors

@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-narrow-field/
 description: Focused pages that expand on Field of View.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_narrow_field_of_view_e4b618
 parent_title: Field of View | ifos causes of UFO

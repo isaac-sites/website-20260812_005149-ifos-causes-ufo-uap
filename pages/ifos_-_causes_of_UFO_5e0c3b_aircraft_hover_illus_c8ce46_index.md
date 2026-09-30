@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-aircraft/
 description: Focused pages that expand on Aircraft.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_aircraft_hover_illus_c8ce46
 parent_title: Aircraft | ifos causes of UFO

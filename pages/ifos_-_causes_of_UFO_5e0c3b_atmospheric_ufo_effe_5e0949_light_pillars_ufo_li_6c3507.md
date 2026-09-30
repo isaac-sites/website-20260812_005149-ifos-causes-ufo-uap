@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 05:29:58'
+last_modified_at: '2026-08-09 05:29:58'
 parent_title: When the Atmosphere Itself Looks Like a UFO | UFO Identifications
 parent_permalink: /atmosphere/
 parent_nav_short_title: Atmosphere

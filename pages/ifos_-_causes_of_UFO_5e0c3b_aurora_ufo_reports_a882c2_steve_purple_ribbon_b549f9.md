@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 12:41:20'
+last_modified_at: '2026-08-09 12:41:20'
 parent_title: When the Night Sky Itself Starts Moving | ifos causes of UFO
 parent_permalink: /auroras/
 parent_nav_short_title: Auroras

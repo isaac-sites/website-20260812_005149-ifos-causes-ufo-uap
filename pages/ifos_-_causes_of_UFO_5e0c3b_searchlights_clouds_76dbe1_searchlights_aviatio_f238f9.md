@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 04:10:00'
+last_modified_at: '2026-08-09 04:10:00'
 parent_title: Why Moving Lights on Clouds Become UFOs | ifos causes of UFO
 parent_permalink: /searchlights/
 parent_nav_short_title: Searchlights
