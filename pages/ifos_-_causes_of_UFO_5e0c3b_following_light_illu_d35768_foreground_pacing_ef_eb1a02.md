@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 08:17:11'
+last_modified_at: '2026-08-09 08:17:11'
 parent_title: Why a Distant Light Seems to Follow You | UFO Identifications
 parent_permalink: /following-lights/
 parent_nav_short_title: Following Lights

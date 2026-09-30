@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-video/
 description: Focused pages that expand on Compression.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_video_compression_ua_0487bd
 parent_title: Compression | ifos causes of UFO

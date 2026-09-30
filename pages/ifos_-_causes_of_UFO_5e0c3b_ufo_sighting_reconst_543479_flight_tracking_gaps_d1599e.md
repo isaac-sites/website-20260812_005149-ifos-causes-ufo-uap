@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 06:38:21'
+last_modified_at: '2026-08-09 06:38:21'
 parent_title: How Investigators Rebuild a UFO Sighting | UFO Identifications
 parent_permalink: /reconstruction/
 parent_nav_short_title: Reconstruction

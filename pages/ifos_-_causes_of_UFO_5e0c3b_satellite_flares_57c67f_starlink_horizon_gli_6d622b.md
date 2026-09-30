@@ -214,6 +214,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-08 23:20:51'
+last_modified_at: '2026-08-08 23:20:51'
 parent_title: Why Satellite Flares Seem to Appear From Nothing | UFO Identifications
 parent_permalink: /flares/
 parent_nav_short_title: Flares

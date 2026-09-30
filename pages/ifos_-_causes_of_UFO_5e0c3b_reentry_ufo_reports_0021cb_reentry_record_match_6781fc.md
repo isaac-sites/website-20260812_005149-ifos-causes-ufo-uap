@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-08 23:29:37'
+last_modified_at: '2026-08-08 23:29:37'
 parent_title: Why Space Debris Can Look Like a Formation | ifos causes of UFO
 parent_permalink: /reentry/
 parent_nav_short_title: Reentry

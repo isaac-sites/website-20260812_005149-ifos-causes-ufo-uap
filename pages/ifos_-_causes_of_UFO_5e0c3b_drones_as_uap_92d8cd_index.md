@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-drones-as/
 description: Focused pages that expand on Drones.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_drones_as_uap_92d8cd
 parent_title: Drones | ifos causes of UFO

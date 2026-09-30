@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-birds-on/
 description: Focused pages that expand on Birds.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_birds_on_infrared_fd390f
 parent_title: Birds | ifos causes of UFO

@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-radar/
 description: Focused pages that expand on Radar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_radar_artifacts_2ef89d
 parent_title: Radar | ifos causes of UFO

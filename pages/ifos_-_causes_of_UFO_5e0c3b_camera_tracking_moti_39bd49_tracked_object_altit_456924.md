@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 02:55:25'
+last_modified_at: '2026-08-09 02:55:25'
 parent_title: When the Camera Moves More Than the UFO | ifos causes of UFO
 parent_permalink: /tracking/
 parent_nav_short_title: Tracking

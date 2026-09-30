@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 00:48:22'
+last_modified_at: '2026-08-09 00:48:22'
 parent_title: Why UFO Size Is Impossible Without Distance | ifos causes of UFO
 parent_permalink: /distance/
 parent_nav_short_title: Distance

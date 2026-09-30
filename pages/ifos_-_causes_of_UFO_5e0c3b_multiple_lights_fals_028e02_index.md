@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-multiple/
 description: Focused pages that expand on Formations.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_multiple_lights_fals_028e02
 parent_title: Formations | ifos causes of UFO

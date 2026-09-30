@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-false/
 description: Focused pages that expand on False Horizons.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_false_horizon_effect_1a0d5b
 parent_title: False Horizons | ifos causes of UFO

@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-08 20:12:34'
+last_modified_at: '2026-08-08 20:12:34'
 parent_title: When Drones Look More Mysterious Than Aircraft | UFO Identifications
 parent_permalink: /drones/
 parent_nav_short_title: Drones

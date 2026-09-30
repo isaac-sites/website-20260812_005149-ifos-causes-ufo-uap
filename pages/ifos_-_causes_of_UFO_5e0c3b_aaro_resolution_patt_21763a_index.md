@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-aaro/
 description: Focused pages that expand on AARO Results.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_aaro_resolution_patt_21763a
 parent_title: AARO Results | ifos causes of UFO

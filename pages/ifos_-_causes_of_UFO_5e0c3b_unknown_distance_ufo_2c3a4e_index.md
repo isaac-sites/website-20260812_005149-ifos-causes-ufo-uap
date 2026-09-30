@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-unknown/
 description: Focused pages that expand on Distance.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_unknown_distance_ufo_2c3a4e
 parent_title: Distance | ifos causes of UFO

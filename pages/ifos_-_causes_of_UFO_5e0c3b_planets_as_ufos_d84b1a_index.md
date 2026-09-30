@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-planets-as/
 description: Focused pages that expand on Planets.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_planets_as_ufos_d84b1a
 parent_title: Planets | ifos causes of UFO

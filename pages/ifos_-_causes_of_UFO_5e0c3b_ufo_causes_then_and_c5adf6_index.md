@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-ufo-causes/
 description: Focused pages that expand on Then vs Now.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_ufo_causes_then_and_c5adf6
 parent_title: Then vs Now | ifos causes of UFO
