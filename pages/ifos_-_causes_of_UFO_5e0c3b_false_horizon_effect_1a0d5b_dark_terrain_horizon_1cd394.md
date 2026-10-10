@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 00:20:31'
+last_modified_at: '2026-08-09 00:20:31'
 parent_title: When the Horizon Itself Creates a UFO Illusion | UFO Identifications
 parent_permalink: /false-horizons/
 parent_nav_short_title: False Horizons

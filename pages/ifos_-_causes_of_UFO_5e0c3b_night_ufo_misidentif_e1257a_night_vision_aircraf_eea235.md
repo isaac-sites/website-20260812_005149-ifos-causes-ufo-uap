@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 07:42:39'
+last_modified_at: '2026-08-09 07:42:39'
 parent_title: Why UFOs Become Harder to Identify at Night | ifos causes of UFO
 parent_permalink: /night-sightings/
 parent_nav_short_title: Night Sightings

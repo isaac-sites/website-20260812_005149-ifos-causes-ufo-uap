@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-rocket/
 description: Focused pages that expand on Launches.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_rocket_launch_ufo_re_a1e482
 parent_title: Launches | ifos causes of UFO

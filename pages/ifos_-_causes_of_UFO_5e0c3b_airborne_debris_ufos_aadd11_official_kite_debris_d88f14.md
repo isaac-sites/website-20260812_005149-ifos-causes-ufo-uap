@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 05:17:17'
+last_modified_at: '2026-08-09 05:17:17'
 parent_title: How Windblown Objects Can Look Intelligently Controlled | UFO Identifications
 parent_permalink: /airborne-debris/
 parent_nav_short_title: Airborne Debris

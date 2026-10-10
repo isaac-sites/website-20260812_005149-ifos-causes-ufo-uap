@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-08 20:26:20'
+last_modified_at: '2026-08-08 20:26:20'
 parent_title: Why Approaching Aircraft Can Seem to Hover | UFO Identifications
 parent_permalink: /aircraft/
 parent_nav_short_title: Aircraft

@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-reentry-ufo/
 description: Focused pages that expand on Reentry.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_reentry_ufo_reports_0021cb
 parent_title: Reentry | ifos causes of UFO

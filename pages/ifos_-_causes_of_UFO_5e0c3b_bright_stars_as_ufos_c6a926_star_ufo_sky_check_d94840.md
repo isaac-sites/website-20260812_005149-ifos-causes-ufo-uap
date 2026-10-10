@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 12:12:52'
+last_modified_at: '2026-08-09 12:12:52'
 parent_title: Why a Bright Star Can Look Like a UFO | UFO Identifications
 parent_permalink: /bright-stars/
 parent_nav_short_title: Bright Stars

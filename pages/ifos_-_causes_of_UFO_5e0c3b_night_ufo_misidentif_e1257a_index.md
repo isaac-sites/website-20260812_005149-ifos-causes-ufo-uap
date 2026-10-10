@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-night-ufo/
 description: Focused pages that expand on Night Sightings.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_night_ufo_misidentif_e1257a
 parent_title: Night Sightings | ifos causes of UFO

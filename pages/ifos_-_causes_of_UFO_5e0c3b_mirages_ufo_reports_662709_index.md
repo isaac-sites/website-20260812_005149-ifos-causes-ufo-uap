@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-mirages-ufo/
 description: Focused pages that expand on Mirages.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_mirages_ufo_reports_662709
 parent_title: Mirages | ifos causes of UFO

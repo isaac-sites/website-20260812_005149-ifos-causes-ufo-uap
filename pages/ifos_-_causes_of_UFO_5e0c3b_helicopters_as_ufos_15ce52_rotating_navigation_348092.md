@@ -283,6 +283,7 @@ prev_link:
   short_title: Searchlights
   heading_title: When a Searchlight Hides the Helicopter Behind It
 date: '2026-08-09 16:35:46 '
+last_modified_at: '2026-08-09 16:35:46 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_rotating_navigation_348092-Illustration-1-social-c9d0dbecac.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_5e0c3b_helicopters_as_ufos_15ce52_rotating_navigation_348092-Illustration-1.webp

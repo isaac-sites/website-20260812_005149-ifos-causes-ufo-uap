@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 06:53:56'
+last_modified_at: '2026-08-09 06:53:56'
 parent_title: What Project Blue Book Actually Identified | UFO Identifications
 parent_permalink: /blue-book/
 parent_nav_short_title: Blue Book

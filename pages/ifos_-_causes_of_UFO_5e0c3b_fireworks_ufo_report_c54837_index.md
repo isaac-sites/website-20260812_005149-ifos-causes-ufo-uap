@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-fireworks/
 description: Focused pages that expand on Fireworks.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_fireworks_ufo_report_c54837
 parent_title: Fireworks | ifos causes of UFO

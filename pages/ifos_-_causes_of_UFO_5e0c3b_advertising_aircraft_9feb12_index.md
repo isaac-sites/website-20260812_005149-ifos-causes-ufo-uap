@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-advertising/
 description: Focused pages that expand on Advertising.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_advertising_aircraft_9feb12
 parent_title: Advertising | ifos causes of UFO

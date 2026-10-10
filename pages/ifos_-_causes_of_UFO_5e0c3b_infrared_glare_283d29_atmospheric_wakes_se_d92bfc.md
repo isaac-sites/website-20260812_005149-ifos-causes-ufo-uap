@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 01:29:29'
+last_modified_at: '2026-08-09 01:29:29'
 parent_title: How Infrared Glare Turns Shapes Into Orbs | UFO Identifications
 parent_permalink: /ir-glare/
 parent_nav_short_title: IR Glare

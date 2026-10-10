@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 03:50:44'
+last_modified_at: '2026-08-09 03:50:44'
 parent_title: Can a Mirage Really Create a UFO? | UFO Identifications
 parent_permalink: /mirages/
 parent_nav_short_title: Mirages

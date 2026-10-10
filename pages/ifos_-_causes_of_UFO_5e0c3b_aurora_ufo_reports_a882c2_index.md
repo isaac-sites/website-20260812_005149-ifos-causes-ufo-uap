@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-5e0c3b-aurora-ufo/
 description: Focused pages that expand on Auroras.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_5e0c3b_aurora_ufo_reports_a882c2
 parent_title: Auroras | ifos causes of UFO

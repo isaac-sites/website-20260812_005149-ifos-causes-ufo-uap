@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 10:28:23'
+last_modified_at: '2026-08-09 10:28:23'
 parent_title: How Haze Makes Aircraft Lose Their Shape | UFO Identifications
 parent_permalink: /haze/
 parent_nav_short_title: Haze
