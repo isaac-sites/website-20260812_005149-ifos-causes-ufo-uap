@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /ifos-causes-of-ufo/
 - /planets/
 nav_short_title: Following Effect
-title: Why Venus Can Seem to Follow Your Car
+title: "Why Venus Can Seem to Follow Your Car (following effect)"
 title_full: Why Venus Can Seem to Follow Your Car | Planets
 display_title_short: Following Effect
 display_title: Following Effect
