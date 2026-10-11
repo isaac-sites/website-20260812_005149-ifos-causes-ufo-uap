@@ -947,7 +947,6 @@ For understanding UFO and modern UAP reports, the lesson is therefore more preci
 
 26.<a id="endnote-26"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 27.<a id="endnote-27"></a>
    Source: nuforc.org  

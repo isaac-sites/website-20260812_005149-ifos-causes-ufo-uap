@@ -999,7 +999,6 @@ For that reason, the most informative fact in the FY2024–FY2025 comparison is 
 37.<a id="endnote-37"></a>
    Source: GOV.UK  
    Title: aria annual report and accounts 2025 to 2026 2  
-   Link:https://www.gov.uk/government/publications/aria-annual-report-and-accounts-2025-to  
 
 38.<a id="endnote-38"></a>
    Source: GOV.UK  
